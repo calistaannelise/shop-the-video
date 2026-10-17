@@ -1,0 +1,323 @@
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  align-items: center;
+  gap: 72px;
+  padding-block: 48px 64px;
+}
+.copy {
+  max-width: 480px;
+}
+.copy h1 {
+  font-size: clamp(42px, 4.3vw, 62px);
+  line-height: 1.08;
+  font-weight: 600;
+  letter-spacing: -2.3px;
+}
+.headlineLine {
+  display: block;
+  overflow: hidden;
+  padding-bottom: 0.06em;
+  margin-bottom: -0.06em;
+}
+.headlineLine > span {
+  display: block;
+}
+.description {
+  font-size: 17px;
+  line-height: 1.65;
+  max-width: 350px;
+  color: var(--muted);
+  margin-top: 24px;
+}
+.upload {
+  margin-top: 32px;
+  border: 1px solid #cecec7;
+  border-radius: 4px;
+  background: #fff;
+  transition:
+    border-color 0.2s,
+    background 0.2s,
+    transform 0.25s var(--ease-out);
+}
+.upload:focus-within,
+.upload:has(.uploadTrigger:hover),
+.upload.dragging {
+  border-color: var(--red);
+  background: #fffaf8;
+}
+.uploadTrigger {
+  width: 100%;
+  min-height: 176px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  padding: 24px;
+  background: transparent;
+  border: 0;
+  border-radius: 4px;
+}
+.uploadTrigger > svg {
+  color: var(--red-ink);
+  margin-bottom: 5px;
+  transition: transform 0.25s var(--ease-out);
+}
+.upload.dragging {
+  transform: scale(1.012);
+  border-style: dashed;
+  background: var(--red-soft);
+}
+.upload.dragging .uploadTrigger > svg {
+  transform: translateY(-4px);
+}
+.uploadTrigger:active > svg {
+  transform: translateY(-2px);
+}
+.uploadTrigger strong {
+  color: var(--red-ink);
+  font-size: 15px;
+  font-weight: 600;
+}
+.uploadTrigger > span {
+  font-size: 13px;
+  color: var(--muted);
+}
+.uploadTrigger small {
+  color: var(--muted);
+  font-size: 11px;
+  margin-top: 7px;
+}
+.sampleLink {
+  display: block;
+  margin: 16px auto 0;
+  min-height: 32px;
+  padding: 4px 8px;
+  background: none;
+  border: 0;
+  font-size: 13px;
+  color: var(--muted);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-color: #b1b1aa;
+}
+.sampleLink:hover {
+  color: var(--red-ink);
+  text-decoration-color: var(--red);
+}
+.photo {
+  height: 530px;
+  overflow: hidden;
+  background: var(--soft);
+}
+.photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 65%;
+  transition: transform 0.8s var(--ease-out);
+}
+@media (prefers-reduced-motion: no-preference) {
+  .headlineLine > span {
+    animation: headlineEnter 0.65s var(--ease-out) backwards;
+  }
+  .headlineLine:nth-child(2) > span {
+    animation-delay: 0.09s;
+  }
+  .description {
+    animation: copyEnter 0.5s var(--ease-out) 0.12s backwards;
+  }
+  .upload {
+    animation: uploadEnter 0.45s var(--ease-out) 0.16s backwards;
+  }
+  .photo[data-entered="true"] img {
+    animation: imageEnter 0.9s var(--ease-out) 0.08s backwards;
+  }
+  .preview {
+    animation: copyEnter 0.3s var(--ease-out);
+  }
+}
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .photo:hover img {
+    transform: scale(1.025);
+  }
+  .uploadTrigger:hover > svg {
+    transform: translateY(-3px);
+  }
+}
+@keyframes headlineEnter {
+  from {
+    transform: translateY(105%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+@keyframes copyEnter {
+  from {
+    opacity: 0.5;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes uploadEnter {
+  from {
+    transform: translateY(6px);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+@keyframes imageEnter {
+  from {
+    opacity: 0.4;
+    transform: scale(1.045);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .upload.dragging,
+  .uploadTrigger:active > svg,
+  .upload.dragging .uploadTrigger > svg {
+    transform: none;
+  }
+}
+.selectedUpload {
+  padding: 20px;
+}
+.preview {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+.preview img {
+  width: 64px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+.fileDetails {
+  min-width: 0;
+}
+.fileDetails > strong {
+  display: block;
+  font-size: 13px;
+  font-weight: 500;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.fileDetails > span {
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+  margin-top: 4px;
+}
+.previewActions {
+  display: flex;
+  gap: 20px;
+  margin-top: 5px;
+}
+.previewActions button {
+  min-height: 32px;
+  border: 0;
+  padding: 4px 0;
+  background: transparent;
+  font-size: 12px;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.caption {
+  margin-top: 16px;
+  font-size: 12px;
+}
+.caption summary {
+  cursor: pointer;
+  padding-block: 8px;
+}
+.caption summary span {
+  color: var(--muted);
+}
+.caption input {
+  width: 100%;
+  border: 1px solid var(--line);
+  padding: 11px 12px;
+  margin-top: 8px;
+  font-size: 13px;
+  border-radius: 2px;
+}
+.findButton {
+  width: 100%;
+  margin-top: 16px;
+  font-size: 14px;
+  border-radius: 2px;
+}
+@media (max-width: 1000px) {
+  .hero {
+    gap: 40px;
+    padding-block: 40px 48px;
+  }
+  .copy h1 {
+    font-size: 46px;
+    letter-spacing: -1.8px;
+  }
+  .description {
+    font-size: 15px;
+    margin-top: 20px;
+  }
+  .upload {
+    margin-top: 24px;
+  }
+  .photo {
+    height: 470px;
+  }
+}
+@media (max-width: 600px) {
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 32px;
+    padding-block: 32px 40px;
+  }
+  .copy {
+    max-width: none;
+  }
+  .copy h1 {
+    font-size: 42px;
+    letter-spacing: -1.5px;
+  }
+  .description {
+    font-size: 15px;
+    max-width: 310px;
+    margin-top: 16px;
+  }
+  .uploadTrigger {
+    min-height: 160px;
+    padding: 20px 16px;
+  }
+  .uploadTrigger > span {
+    font-size: 12px;
+  }
+  .sampleLink {
+    margin-top: 12px;
+  }
+  .photo {
+    height: 300px;
+  }
+  .photo img {
+    object-position: 50% 55%;
+  }
+  .selectedUpload {
+    padding: 16px;
+  }
+  .caption input {
+    font-size: 16px;
+  }
+}
