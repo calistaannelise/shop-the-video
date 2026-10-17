@@ -1,0 +1,20 @@
+# env
+.env
+.env.local
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# node
+node_modules/
+.next/
+
+# data
+data/uploads/
+data/images/*
+!data/images/.gitkeep
+
+.DS_Store

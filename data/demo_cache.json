@@ -1,0 +1,108 @@
+{
+  "_note": "SAMPLE data. Person A: replace with real responses captured from the demo screenshot (Hour 5-6.5).",
+  "extract": {
+    "image_id": "upload_demo",
+    "items": [
+      {
+        "id": "item_1",
+        "category": "outerwear",
+        "type": "cropped jacket",
+        "color": "black",
+        "fit": "oversized",
+        "material": "denim",
+        "vibe": "streetwear",
+        "brand_guess": null,
+        "description": "black oversized cropped denim jacket"
+      }
+    ],
+    "caption_brands": []
+  },
+  "search": {
+    "default": {
+      "original": null,
+      "results": [
+        {
+          "product": {
+            "id": "sample_cider_01",
+            "brand": "Cider",
+            "tier": "budget",
+            "category": "outerwear",
+            "title": "SAMPLE Cropped Denim Jacket",
+            "price": 32.0,
+            "colors": [
+              "black"
+            ],
+            "image_url": "https://placehold.co/400x500?text=Cider",
+            "product_url": "https://example.com"
+          },
+          "score": 0.82,
+          "why": "Same cropped boxy cut in washed black denim"
+        },
+        {
+          "product": {
+            "id": "sample_edikted_01",
+            "brand": "Edikted",
+            "tier": "mid",
+            "category": "outerwear",
+            "title": "SAMPLE Oversized Denim Jacket",
+            "price": 62.0,
+            "colors": [
+              "black"
+            ],
+            "image_url": "https://placehold.co/400x500?text=Edikted",
+            "product_url": "https://example.com"
+          },
+          "score": 0.79,
+          "why": "Oversized fit and black wash match closely"
+        },
+        {
+          "product": {
+            "id": "sample_ref_01",
+            "brand": "Reformation",
+            "tier": "higher",
+            "category": "outerwear",
+            "title": "SAMPLE Cropped Denim Jacket",
+            "price": 178.0,
+            "colors": [
+              "black"
+            ],
+            "image_url": "https://placehold.co/400x500?text=Reformation",
+            "product_url": "https://example.com"
+          },
+          "score": 0.76,
+          "why": "Same silhouette in premium denim"
+        }
+      ]
+    }
+  },
+  "refine": {
+    "filters": {
+      "tiers": [
+        "budget"
+      ],
+      "overrides": {
+        "color": "black"
+      }
+    },
+    "reply": "Here are budget picks in black.",
+    "results": [
+      {
+        "product": {
+          "id": "sample_cider_01",
+          "brand": "Cider",
+          "tier": "budget",
+          "category": "outerwear",
+          "title": "SAMPLE Cropped Denim Jacket",
+          "price": 32.0,
+          "colors": [
+            "black"
+          ],
+          "image_url": "https://placehold.co/400x500?text=Cider",
+          "product_url": "https://example.com"
+        },
+        "score": 0.82,
+        "why": "Same cropped boxy cut in washed black denim"
+      }
+    ]
+  }
+}

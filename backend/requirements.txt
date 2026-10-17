@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+pydantic>=2
+numpy
+pillow
+requests
+torch
+open_clip_torch
+# Add your LLM provider's SDK here once chosen (e.g. anthropic / openai)

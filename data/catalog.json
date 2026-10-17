@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sample_cider_01",
+    "brand": "Cider",
+    "tier": "budget",
+    "category": "outerwear",
+    "title": "SAMPLE Cropped Denim Jacket",
+    "price": 32.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://placehold.co/400x500?text=Cider",
+    "product_url": "https://example.com"
+  },
+  {
+    "id": "sample_edikted_01",
+    "brand": "Edikted",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "SAMPLE Oversized Denim Jacket",
+    "price": 62.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://placehold.co/400x500?text=Edikted",
+    "product_url": "https://example.com"
+  },
+  {
+    "id": "sample_pp_01",
+    "brand": "Princess Polly",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "SAMPLE Boxy Cropped Jacket",
+    "price": 75.0,
+    "colors": [
+      "washed black"
+    ],
+    "image_url": "https://placehold.co/400x500?text=Princess+Polly",
+    "product_url": "https://example.com"
+  },
+  {
+    "id": "sample_ref_01",
+    "brand": "Reformation",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "SAMPLE Cropped Denim Jacket",
+    "price": 178.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://placehold.co/400x500?text=Reformation",
+    "product_url": "https://example.com"
+  },
+  {
+    "id": "sample_aritzia_01",
+    "brand": "Aritzia",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "SAMPLE Oversized Trucker Jacket",
+    "price": 148.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://placehold.co/400x500?text=Aritzia",
+    "product_url": "https://example.com"
+  }
+]
