@@ -1,0 +1,156 @@
+/* Shared motion for shopping controls. Layout and data flow stay independent. */
+:root {
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}
+.button {
+  transition:
+    background-color 180ms ease,
+    color 180ms ease,
+    border-color 180ms ease,
+    transform 180ms var(--ease-out);
+}
+.button:active:not(:disabled) {
+  transform: scale(0.985);
+}
+.back-link,
+.text-link {
+  background-image: linear-gradient(var(--red), var(--red));
+  background-size: 0% 1px;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  transition:
+    background-size 220ms var(--ease-out),
+    color 180ms ease;
+}
+.back-link:hover,
+.text-link:hover,
+.back-link:focus-visible,
+.text-link:focus-visible {
+  background-size: 100% 1px;
+}
+.select-product,
+.retailer-link,
+.tier-tabs button,
+.detected-items button,
+.suggested-prompts button,
+.quantity-control > button {
+  transition:
+    background-color 180ms ease,
+    color 180ms ease,
+    border-color 180ms ease,
+    transform 180ms var(--ease-out);
+}
+.select-product:active,
+.quantity-control > button:active:not(:disabled) {
+  transform: scale(0.92);
+}
+.product-image-wrap > img {
+  transition: transform 600ms var(--ease-out);
+}
+/* Hover motion only on devices with a pointer; touch taps never leave a zoom. */
+.product-card:hover .product-image-wrap > img {
+  transform: none;
+}
+@media (hover: hover) and (pointer: fine) {
+  .product-card:hover .product-image-wrap > img,
+  .product-card:focus-within .product-image-wrap > img {
+    transform: scale(1.035);
+  }
+  .select-product:hover,
+  .retailer-link:hover {
+    background-color: var(--red-soft);
+    color: var(--red-ink);
+  }
+  .selected .select-product:hover {
+    background-color: var(--red-action);
+    color: white;
+  }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .product-grid[data-entered="true"] > .product-card {
+    animation: product-arrive 360ms var(--ease-out) both;
+  }
+  .product-grid[data-entered="true"] > .product-card:nth-child(2) {
+    animation-delay: 45ms;
+  }
+  .product-grid[data-entered="true"] > .product-card:nth-child(3) {
+    animation-delay: 90ms;
+  }
+  .product-grid[data-entered="true"] > .product-card:nth-child(n + 4) {
+    animation-delay: 135ms;
+  }
+  .selected .select-product > svg,
+  .button-add.added > svg {
+    animation: selection-confirm 240ms var(--ease-out);
+  }
+  .outfit-pieces > div {
+    animation: piece-arrive 240ms var(--ease-out);
+  }
+  .cart-dialog[open] {
+    animation: slide-in 300ms var(--ease-out);
+  }
+  .cart-dialog[open]::backdrop {
+    animation: backdrop-arrive 180ms ease;
+  }
+}
+@keyframes product-arrive {
+  from {
+    opacity: 0.65;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes selection-confirm {
+  from {
+    opacity: 0.4;
+    transform: scale(0.65);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+@keyframes piece-arrive {
+  from {
+    opacity: 0.5;
+    transform: translateX(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+@keyframes backdrop-arrive {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@media (hover: none) {
+  .button:hover {
+    transform: none;
+  }
+}
+/* Remove delays as well as durations. Every base state is fully visible. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+  .product-card:hover .product-image-wrap > img,
+  .product-card:focus-within .product-image-wrap > img,
+  .button:hover,
+  .button:active,
+  .select-product:active,
+  .quantity-control > button:active {
+    transform: none;
+  }
+}
