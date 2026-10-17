@@ -8,4 +8,8 @@ pillow
 requests
 torch
 open_clip_torch
-# Add your LLM provider's SDK here once chosen (e.g. anthropic / openai)
+openai
+lancedb
+pyarrow
+redis
+prometheus-fastapi-instrumentator

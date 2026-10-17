@@ -13,6 +13,7 @@ from fastapi import FastAPI, File, Form, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 
 import extract
+import metrics
 import refine
 import search
 from schemas import (
@@ -37,6 +38,10 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Prometheus metrics: exposes GET /metrics, seeds the catalog-size gauge.
+metrics.instrument(app)
+metrics.CATALOG_SIZE.set(len(search.CATALOG))
 
 
 def _demo(demo: int) -> bool:

@@ -1,76 +1,266 @@
 {
-  "_note": "SAMPLE data. Person A: replace with real responses captured from the demo screenshot (Hour 5-6.5).",
+  "_note": "Real curated products (Edikted, Princess Polly, AGOLDE) sourced from live Shopify feeds.",
   "extract": {
     "image_id": "upload_demo",
     "items": [
       {
         "id": "item_1",
         "category": "outerwear",
-        "type": "cropped jacket",
-        "color": "black",
+        "type": "denim jacket",
+        "color": "washed blue",
         "fit": "oversized",
         "material": "denim",
         "vibe": "streetwear",
-        "brand_guess": null,
-        "description": "black oversized cropped denim jacket"
+        "brand_guess": "AGOLDE",
+        "description": "oversized washed denim trucker jacket"
       }
     ],
-    "caption_brands": []
+    "caption_brands": [
+      "AGOLDE"
+    ]
   },
   "search": {
-    "default": {
-      "original": null,
+    "item_1": {
+      "original": {
+        "product": {
+          "id": "agolde_croydon",
+          "brand": "AGOLDE",
+          "tier": "higher",
+          "category": "outerwear",
+          "title": "Croydon Jacket in Rinse",
+          "price": 348.0,
+          "colors": [
+            "rinse"
+          ],
+          "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A4078-1966_CROYDON_JACKET_RINSE_0356_11be9266-7df7-48cb-8b24-56ca77841479.jpg",
+          "product_url": "https://agolde.com/products/croydon-y2k-round-shoulder-jacket-rinse"
+        },
+        "confidence": "high"
+      },
       "results": [
         {
           "product": {
-            "id": "sample_cider_01",
-            "brand": "Cider",
+            "id": "edikted_tamy",
+            "brand": "Edikted",
             "tier": "budget",
             "category": "outerwear",
-            "title": "SAMPLE Cropped Denim Jacket",
-            "price": 32.0,
+            "title": "Tamy High Neck Denim Jacket",
+            "price": 68.0,
             "colors": [
-              "black"
+              "blue washed"
             ],
-            "image_url": "https://placehold.co/400x500?text=Cider",
-            "product_url": "https://example.com"
+            "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26685_blue-washed_08-09-2650.jpg",
+            "product_url": "https://edikted.com/products/s26685_blue-washed"
           },
-          "score": 0.82,
-          "why": "Same cropped boxy cut in washed black denim"
+          "score": 0.91,
+          "why": "Same washed denim and high-neck cut for a fraction of the price"
         },
         {
           "product": {
-            "id": "sample_edikted_01",
-            "brand": "Edikted",
+            "id": "pp_alfea",
+            "brand": "Princess Polly",
             "tier": "mid",
             "category": "outerwear",
-            "title": "SAMPLE Oversized Denim Jacket",
-            "price": 62.0,
+            "title": "Alfea Funnel Neck Denim Bomber Jacket Mid Blue Wash",
+            "price": 105.0,
             "colors": [
-              "black"
+              "mid blue wash"
             ],
-            "image_url": "https://placehold.co/400x500?text=Edikted",
-            "product_url": "https://example.com"
+            "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-georgina-us2.jpg",
+            "product_url": "https://us.princesspolly.com/products/alfea-funnel-neck-denim-bomber-jacket-mid-blue-wash"
           },
-          "score": 0.79,
-          "why": "Oversized fit and black wash match closely"
+          "score": 0.88,
+          "why": "Funnel-neck denim with the same oversized, boxy volume"
         },
         {
           "product": {
-            "id": "sample_ref_01",
-            "brand": "Reformation",
+            "id": "agolde_blaze",
+            "brand": "AGOLDE",
             "tier": "higher",
             "category": "outerwear",
-            "title": "SAMPLE Cropped Denim Jacket",
-            "price": 178.0,
+            "title": "Blaze Jacket in Association",
+            "price": 278.0,
+            "colors": [
+              "association"
+            ],
+            "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A4073-1978_BLAZE_JACKET_ASSOCIATION_0133.jpg",
+            "product_url": "https://agolde.com/products/blaze-jacket-association"
+          },
+          "score": 0.85,
+          "why": "Premium denim in a cropped, structured fit"
+        },
+        {
+          "product": {
+            "id": "pp_stageleft",
+            "brand": "Princess Polly",
+            "tier": "mid",
+            "category": "outerwear",
+            "title": "Stage Left Cropped Military Jacket Black",
+            "price": 85.0,
             "colors": [
               "black"
             ],
-            "image_url": "https://placehold.co/400x500?text=Reformation",
-            "product_url": "https://example.com"
+            "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-olivia-us2_94a7a572-b822-4e1b-957a-1ea436c068a2.jpg",
+            "product_url": "https://us.princesspolly.com/products/stage-left-cropped-military-jacket-black"
           },
-          "score": 0.76,
-          "why": "Same silhouette in premium denim"
+          "score": 0.83,
+          "why": "Cropped boxy silhouette in a washed cotton finish"
+        },
+        {
+          "product": {
+            "id": "edikted_corinne",
+            "brand": "Edikted",
+            "tier": "budget",
+            "category": "outerwear",
+            "title": "Corinne Nylon Oversized High Neck Jacket",
+            "price": 59.0,
+            "colors": [
+              "black"
+            ],
+            "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26375_black_26-08-2615.jpg",
+            "product_url": "https://edikted.com/products/s26375_black"
+          },
+          "score": 0.8,
+          "why": "Oversized high-neck shape, minimal and easy to style"
+        },
+        {
+          "product": {
+            "id": "agolde_veronica",
+            "brand": "AGOLDE",
+            "tier": "higher",
+            "category": "outerwear",
+            "title": "Veronica Jacket in Covell",
+            "price": 298.0,
+            "colors": [
+              "covell"
+            ],
+            "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5159-1483_VERONICA_JACKET_COVELL_2102_5c89e1b3-f231-4184-b5fa-b219dbe41f75.jpg",
+            "product_url": "https://agolde.com/products/veronica-jacket-covell"
+          },
+          "score": 0.78,
+          "why": "Elevated denim with the same relaxed oversized line"
+        }
+      ]
+    },
+    "default": {
+      "original": {
+        "product": {
+          "id": "agolde_croydon",
+          "brand": "AGOLDE",
+          "tier": "higher",
+          "category": "outerwear",
+          "title": "Croydon Jacket in Rinse",
+          "price": 348.0,
+          "colors": [
+            "rinse"
+          ],
+          "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A4078-1966_CROYDON_JACKET_RINSE_0356_11be9266-7df7-48cb-8b24-56ca77841479.jpg",
+          "product_url": "https://agolde.com/products/croydon-y2k-round-shoulder-jacket-rinse"
+        },
+        "confidence": "high"
+      },
+      "results": [
+        {
+          "product": {
+            "id": "edikted_tamy",
+            "brand": "Edikted",
+            "tier": "budget",
+            "category": "outerwear",
+            "title": "Tamy High Neck Denim Jacket",
+            "price": 68.0,
+            "colors": [
+              "blue washed"
+            ],
+            "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26685_blue-washed_08-09-2650.jpg",
+            "product_url": "https://edikted.com/products/s26685_blue-washed"
+          },
+          "score": 0.91,
+          "why": "Same washed denim and high-neck cut for a fraction of the price"
+        },
+        {
+          "product": {
+            "id": "pp_alfea",
+            "brand": "Princess Polly",
+            "tier": "mid",
+            "category": "outerwear",
+            "title": "Alfea Funnel Neck Denim Bomber Jacket Mid Blue Wash",
+            "price": 105.0,
+            "colors": [
+              "mid blue wash"
+            ],
+            "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-georgina-us2.jpg",
+            "product_url": "https://us.princesspolly.com/products/alfea-funnel-neck-denim-bomber-jacket-mid-blue-wash"
+          },
+          "score": 0.88,
+          "why": "Funnel-neck denim with the same oversized, boxy volume"
+        },
+        {
+          "product": {
+            "id": "agolde_blaze",
+            "brand": "AGOLDE",
+            "tier": "higher",
+            "category": "outerwear",
+            "title": "Blaze Jacket in Association",
+            "price": 278.0,
+            "colors": [
+              "association"
+            ],
+            "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A4073-1978_BLAZE_JACKET_ASSOCIATION_0133.jpg",
+            "product_url": "https://agolde.com/products/blaze-jacket-association"
+          },
+          "score": 0.85,
+          "why": "Premium denim in a cropped, structured fit"
+        },
+        {
+          "product": {
+            "id": "pp_stageleft",
+            "brand": "Princess Polly",
+            "tier": "mid",
+            "category": "outerwear",
+            "title": "Stage Left Cropped Military Jacket Black",
+            "price": 85.0,
+            "colors": [
+              "black"
+            ],
+            "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-olivia-us2_94a7a572-b822-4e1b-957a-1ea436c068a2.jpg",
+            "product_url": "https://us.princesspolly.com/products/stage-left-cropped-military-jacket-black"
+          },
+          "score": 0.83,
+          "why": "Cropped boxy silhouette in a washed cotton finish"
+        },
+        {
+          "product": {
+            "id": "edikted_corinne",
+            "brand": "Edikted",
+            "tier": "budget",
+            "category": "outerwear",
+            "title": "Corinne Nylon Oversized High Neck Jacket",
+            "price": 59.0,
+            "colors": [
+              "black"
+            ],
+            "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26375_black_26-08-2615.jpg",
+            "product_url": "https://edikted.com/products/s26375_black"
+          },
+          "score": 0.8,
+          "why": "Oversized high-neck shape, minimal and easy to style"
+        },
+        {
+          "product": {
+            "id": "agolde_veronica",
+            "brand": "AGOLDE",
+            "tier": "higher",
+            "category": "outerwear",
+            "title": "Veronica Jacket in Covell",
+            "price": 298.0,
+            "colors": [
+              "covell"
+            ],
+            "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5159-1483_VERONICA_JACKET_COVELL_2102_5c89e1b3-f231-4184-b5fa-b219dbe41f75.jpg",
+            "product_url": "https://agolde.com/products/veronica-jacket-covell"
+          },
+          "score": 0.78,
+          "why": "Elevated denim with the same relaxed oversized line"
         }
       ]
     }
@@ -84,24 +274,41 @@
         "color": "black"
       }
     },
-    "reply": "Here are budget picks in black.",
+    "reply": "Here are the closest black jackets at budget prices.",
     "results": [
       {
         "product": {
-          "id": "sample_cider_01",
-          "brand": "Cider",
+          "id": "edikted_corinne",
+          "brand": "Edikted",
           "tier": "budget",
           "category": "outerwear",
-          "title": "SAMPLE Cropped Denim Jacket",
-          "price": 32.0,
+          "title": "Corinne Nylon Oversized High Neck Jacket",
+          "price": 59.0,
           "colors": [
             "black"
           ],
-          "image_url": "https://placehold.co/400x500?text=Cider",
-          "product_url": "https://example.com"
+          "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26375_black_26-08-2615.jpg",
+          "product_url": "https://edikted.com/products/s26375_black"
+        },
+        "score": 0.9,
+        "why": "Oversized and all-black, under $60"
+      },
+      {
+        "product": {
+          "id": "pp_cassie",
+          "brand": "Princess Polly",
+          "tier": "budget",
+          "category": "outerwear",
+          "title": "Cassie Trench Coat Black",
+          "price": 45.0,
+          "colors": [
+            "black"
+          ],
+          "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/products/abihoffman---Cassie-Trench-Coat-Black---US2.jpg",
+          "product_url": "https://us.princesspolly.com/products/cassie-trench-coat-black"
         },
         "score": 0.82,
-        "why": "Same cropped boxy cut in washed black denim"
+        "why": "Clean black layering piece at the lowest price"
       }
     ]
   }

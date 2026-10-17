@@ -1,0 +1,13 @@
+# Local infra sidecars for the backend. The app runs on the host (uvicorn);
+# these are optional and the backend works with them turned off.
+#
+#   docker compose -f ops/docker-compose.yml up -d
+#
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: stylist-redis
+    ports:
+      - "6379:6379"
+    # Pure cache: no persistence needed.
+    command: ["redis-server", "--save", "", "--appendonly", "no"]

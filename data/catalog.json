@@ -1,67 +1,184 @@
 [
   {
-    "id": "sample_cider_01",
-    "brand": "Cider",
+    "id": "edikted_corinne",
+    "brand": "Edikted",
     "tier": "budget",
     "category": "outerwear",
-    "title": "SAMPLE Cropped Denim Jacket",
-    "price": 32.0,
+    "title": "Corinne Nylon Oversized High Neck Jacket",
+    "price": 59.0,
     "colors": [
       "black"
     ],
-    "image_url": "https://placehold.co/400x500?text=Cider",
-    "product_url": "https://example.com"
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26375_black_26-08-2615.jpg",
+    "product_url": "https://edikted.com/products/s26375_black"
   },
   {
-    "id": "sample_edikted_01",
+    "id": "edikted_tamy",
     "brand": "Edikted",
-    "tier": "mid",
+    "tier": "budget",
     "category": "outerwear",
-    "title": "SAMPLE Oversized Denim Jacket",
-    "price": 62.0,
+    "title": "Tamy High Neck Denim Jacket",
+    "price": 68.0,
+    "colors": [
+      "blue washed"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26685_blue-washed_08-09-2650.jpg",
+    "product_url": "https://edikted.com/products/s26685_blue-washed"
+  },
+  {
+    "id": "edikted_naeva",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "outerwear",
+    "title": "Naeva Cropped Faux Leather Jacket",
+    "price": 74.0,
+    "colors": [
+      "tan"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/Frame160.png",
+    "product_url": "https://edikted.com/products/s25868_tan"
+  },
+  {
+    "id": "pp_cassie",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "outerwear",
+    "title": "Cassie Trench Coat Black",
+    "price": 45.0,
     "colors": [
       "black"
     ],
-    "image_url": "https://placehold.co/400x500?text=Edikted",
-    "product_url": "https://example.com"
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/products/abihoffman---Cassie-Trench-Coat-Black---US2.jpg",
+    "product_url": "https://us.princesspolly.com/products/cassie-trench-coat-black"
   },
   {
-    "id": "sample_pp_01",
+    "id": "pp_stageleft",
     "brand": "Princess Polly",
     "tier": "mid",
     "category": "outerwear",
-    "title": "SAMPLE Boxy Cropped Jacket",
-    "price": 75.0,
+    "title": "Stage Left Cropped Military Jacket Black",
+    "price": 85.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-olivia-us2_94a7a572-b822-4e1b-957a-1ea436c068a2.jpg",
+    "product_url": "https://us.princesspolly.com/products/stage-left-cropped-military-jacket-black"
+  },
+  {
+    "id": "pp_marykate",
+    "brand": "Princess Polly",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "Marykate Funnel Neck Fitted Jacket Washed Black",
+    "price": 95.0,
     "colors": [
       "washed black"
     ],
-    "image_url": "https://placehold.co/400x500?text=Princess+Polly",
-    "product_url": "https://example.com"
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-kayla-us2_926e1af3-97a8-4725-9cf3-4ce58b13387e.jpg",
+    "product_url": "https://us.princesspolly.com/products/marykate-funnel-neck-fitted-jacket-washed-black"
   },
   {
-    "id": "sample_ref_01",
-    "brand": "Reformation",
-    "tier": "higher",
+    "id": "pp_alfea",
+    "brand": "Princess Polly",
+    "tier": "mid",
     "category": "outerwear",
-    "title": "SAMPLE Cropped Denim Jacket",
-    "price": 178.0,
+    "title": "Alfea Funnel Neck Denim Bomber Jacket Mid Blue Wash",
+    "price": 105.0,
+    "colors": [
+      "mid blue wash"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-georgina-us2.jpg",
+    "product_url": "https://us.princesspolly.com/products/alfea-funnel-neck-denim-bomber-jacket-mid-blue-wash"
+  },
+  {
+    "id": "edikted_reara",
+    "brand": "Edikted",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "Reara Ribbed Faux Leather Jacket",
+    "price": 89.0,
     "colors": [
       "black"
     ],
-    "image_url": "https://placehold.co/400x500?text=Reformation",
-    "product_url": "https://example.com"
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26392_black_25-08-2664.jpg",
+    "product_url": "https://edikted.com/products/s26392_black"
   },
   {
-    "id": "sample_aritzia_01",
-    "brand": "Aritzia",
-    "tier": "higher",
+    "id": "edikted_mariem",
+    "brand": "Edikted",
+    "tier": "mid",
     "category": "outerwear",
-    "title": "SAMPLE Oversized Trucker Jacket",
-    "price": 148.0,
+    "title": "Mariem Faux Leather Jacket",
+    "price": 104.0,
     "colors": [
       "black"
     ],
-    "image_url": "https://placehold.co/400x500?text=Aritzia",
-    "product_url": "https://example.com"
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26563_black_25-08-2660.jpg",
+    "product_url": "https://edikted.com/products/s26563_black"
+  },
+  {
+    "id": "agolde_blaze",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Blaze Jacket in Association",
+    "price": 278.0,
+    "colors": [
+      "association"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A4073-1978_BLAZE_JACKET_ASSOCIATION_0133.jpg",
+    "product_url": "https://agolde.com/products/blaze-jacket-association"
+  },
+  {
+    "id": "agolde_veronica",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Veronica Jacket in Covell",
+    "price": 298.0,
+    "colors": [
+      "covell"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5159-1483_VERONICA_JACKET_COVELL_2102_5c89e1b3-f231-4184-b5fa-b219dbe41f75.jpg",
+    "product_url": "https://agolde.com/products/veronica-jacket-covell"
+  },
+  {
+    "id": "agolde_croydon",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Croydon Jacket in Rinse",
+    "price": 348.0,
+    "colors": [
+      "rinse"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A4078-1966_CROYDON_JACKET_RINSE_0356_11be9266-7df7-48cb-8b24-56ca77841479.jpg",
+    "product_url": "https://agolde.com/products/croydon-y2k-round-shoulder-jacket-rinse"
+  },
+  {
+    "id": "agolde_iona",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Iona Quilted Jacket in Black",
+    "price": 495.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5031_IONA_JACKET_BLACK_1049.jpg",
+    "product_url": "https://agolde.com/products/shoreditch-ski-club-x-agolde-iona-quilted-jacket-black"
+  },
+  {
+    "id": "agolde_nova",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Nova Bomber Jacket in Black",
+    "price": 550.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5152_NOVA_BOMBER_JACKET_BLACK_64_5c535c6a-d8ef-46c0-bb5a-7f0fc43f3408.jpg",
+    "product_url": "https://agolde.com/products/nova-bomber-jacket-black"
   }
 ]

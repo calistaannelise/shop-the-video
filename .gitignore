@@ -16,5 +16,7 @@ node_modules/
 data/uploads/
 data/images/*
 !data/images/.gitkeep
+data/lancedb/
+data/embeddings.npy
 
 .DS_Store
