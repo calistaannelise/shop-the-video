@@ -13,6 +13,7 @@ from fastapi import FastAPI, File, Form, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 
 import extract
+import local_vision
 import metrics
 import refine
 import search
@@ -71,7 +72,11 @@ async def extract_route(
     image_id = f"upload_{uuid.uuid4().hex[:8]}"
     path = UPLOAD_DIR / f"{image_id}{Path(image.filename or '').suffix or '.jpg'}"
     path.write_bytes(await image.read())
-    return extract.extract_items(path, image_id, caption)
+    # With an LLM key, use Person B's vision model; otherwise fall back to the
+    # free local CLIP zero-shot parser so the pipeline runs end-to-end for free.
+    if os.getenv("LLM_API_KEY"):
+        return extract.extract_items(path, image_id, caption)
+    return local_vision.extract_items(path, image_id, caption)
 
 
 @app.post("/search", response_model=SearchResponse)

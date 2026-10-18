@@ -1,32 +1,903 @@
 [
   {
-    "id": "edikted_corinne",
+    "id": "edikte_11218412732583",
     "brand": "Edikted",
     "tier": "budget",
-    "category": "outerwear",
-    "title": "Corinne Nylon Oversized High Neck Jacket",
-    "price": 59.0,
+    "category": "bottom",
+    "title": "Tilliey Tie Straight Leg Pants",
+    "price": 66.0,
+    "colors": [
+      "burgundy"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s27202_burgundy_s27203_burgundy_30-09-2614_17aea2d1-9303-4bca-8ffb-6019404c9947.jpg?v=1791975549",
+    "product_url": "https://edikted.com/products/s27203_burgundy"
+  },
+  {
+    "id": "edikte_11218412667047",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "top",
+    "title": "Tilliey Cropped Hooded Long Sleeve Top",
+    "price": 48.0,
+    "colors": [
+      "burgundy"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s27202_burgundy_30-09-26_23.jpg?v=1792019057",
+    "product_url": "https://edikted.com/products/s27202_burgundy"
+  },
+  {
+    "id": "edikte_11218412568743",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "top",
+    "title": "Stully Two Piece Polka Dot Top",
+    "price": 64.0,
+    "colors": [
+      "black-and-white"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s27234_black-and-white_01-10-2657.jpg?v=1791975269",
+    "product_url": "https://edikted.com/products/s27234_black-and-white"
+  },
+  {
+    "id": "edikte_11218412404903",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Angel Energy Foldover Shorts",
+    "price": 42.0,
+    "colors": [
+      "gray-melange"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s27604_gray-melange_06-10-269.jpg?v=1791975138",
+    "product_url": "https://edikted.com/products/s27604_gray-melange"
+  },
+  {
+    "id": "edikte_11218412273831",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "top",
+    "title": "Hallen Off Shoulder Top",
+    "price": 46.0,
+    "colors": [
+      "brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26996_brown_06-10-2653.jpg?v=1791975065",
+    "product_url": "https://edikted.com/products/s26996_brown"
+  },
+  {
+    "id": "edikte_11218412077223",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "top",
+    "title": "Taile Ruched Wrap Halter Top",
+    "price": 54.0,
     "colors": [
       "black"
     ],
-    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26375_black_26-08-2615.jpg",
-    "product_url": "https://edikted.com/products/s26375_black"
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s25743_black_06-10-2662.jpg?v=1791985383",
+    "product_url": "https://edikted.com/products/s25743_black"
   },
   {
-    "id": "edikted_tamy",
+    "id": "edikte_11218412044455",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "top",
+    "title": "Vikkey Lacey Satin Effect Tank Top",
+    "price": 50.0,
+    "colors": [
+      "cream-and-black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s23794_cream-and-black_01-10-26_19.jpg?v=1792016675",
+    "product_url": "https://edikted.com/products/s23794_cream-and-black"
+  },
+  {
+    "id": "edikte_11218411880615",
+    "brand": "Edikted",
+    "tier": "mid",
+    "category": "top",
+    "title": "Maizy Puff Sleeve Scalloped Knit Cardigan",
+    "price": 80.0,
+    "colors": [
+      "light-blue"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s21742_light-blue_23-09-2662.jpg?v=1791985586",
+    "product_url": "https://edikted.com/products/s21742_light-blue"
+  },
+  {
+    "id": "edikte_11218411684007",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Taira Satin Effect Mini Dress",
+    "price": 70.0,
+    "colors": [
+      "teal"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26148_teal_22-09-26_2.jpg?v=1792019374",
+    "product_url": "https://edikted.com/products/s26148_teal"
+  },
+  {
+    "id": "edikte_11218411585703",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Laira Chiffon High Neck Mini Dress",
+    "price": 74.0,
+    "colors": [
+      "black-and-white"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26028_black_23-09-265.jpg?v=1791985615",
+    "product_url": "https://edikted.com/products/s26028_black-and-white"
+  },
+  {
+    "id": "edikte_11218411552935",
+    "brand": "Edikted",
+    "tier": "mid",
+    "category": "top",
+    "title": "Beija Sheer Lace Sequin Halter Top",
+    "price": 80.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26833_black_23-09-2660.jpg?v=1791985518",
+    "product_url": "https://edikted.com/products/s26833_black"
+  },
+  {
+    "id": "edikte_11218411389095",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "top",
+    "title": "Allia Layered Long Sleeve Top",
+    "price": 50.0,
+    "colors": [
+      "pink"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26801_pink_22-09-2653.jpg?v=1791985738",
+    "product_url": "https://edikted.com/products/s26801_pink"
+  },
+  {
+    "id": "edikte_11218411258023",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "top",
+    "title": "Dami Ruched Active Tank Top",
+    "price": 50.0,
+    "colors": [
+      "deep-teal"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26444_deep-teal_18_09045c21-a3fd-4a70-8fcc-3c3b42f56d2b.jpg?v=1792083245",
+    "product_url": "https://edikted.com/products/s26444_deep-teal"
+  },
+  {
+    "id": "edikte_11218411159719",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "top",
+    "title": "Lillia V Neck Wrap Sweater",
+    "price": 64.0,
+    "colors": [
+      "navy"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s22382_navy_23-09-2647.jpg?v=1791985490",
+    "product_url": "https://edikted.com/products/s22382_navy"
+  },
+  {
+    "id": "edikte_11218411126951",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "top",
+    "title": "Buno Active High V Neck Top",
+    "price": 58.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26851_black_30-09-2690_08049380-15dd-4af2-b858-3adafcf963d8.jpg?v=1792084750",
+    "product_url": "https://edikted.com/products/s26851_black"
+  },
+  {
+    "id": "edikte_11218410930343",
+    "brand": "Edikted",
+    "tier": "mid",
+    "category": "bottom",
+    "title": "Sini Low Rise Peace Jeans",
+    "price": 110.0,
+    "colors": [
+      "medium-blue-washed"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26864_white_s27063_medium-blue-washed_23-09-261_d13a9e55-ba69-4e3d-a197-c83e51870cda.jpg?v=1791985956",
+    "product_url": "https://edikted.com/products/s27063_medium-blue-washed"
+  },
+  {
+    "id": "edikte_11218410700967",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "top",
+    "title": "Trista V Neck Long Sleeve Top",
+    "price": 56.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26946_black_30-09-2617_394fd233-8db1-43a3-8eb0-8f127e10c7c7.jpg?v=1792088437",
+    "product_url": "https://edikted.com/products/s26946_black"
+  },
+  {
+    "id": "edikte_11218410668199",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "top",
+    "title": "Edra Long Sleeve Babydoll Top",
+    "price": 48.0,
+    "colors": [
+      "turquoise"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s25960_turquoise_01-10-26_58_4cdb63a2-339f-4947-bf41-4eea22cdf2eb.jpg?v=1792016467",
+    "product_url": "https://edikted.com/products/s25960_turquoise"
+  },
+  {
+    "id": "edikte_11218410635431",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "top",
+    "title": "Hasha Active Overlap Top",
+    "price": 48.0,
+    "colors": [
+      "deep-teal"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s27215_deep-teal_30-09-26_21.jpg?v=1792019144",
+    "product_url": "https://edikted.com/products/s27215_deep-teal"
+  },
+  {
+    "id": "edikte_11218410438823",
+    "brand": "Edikted",
+    "tier": "mid",
+    "category": "bottom",
+    "title": "Daynah Stripey Mesh Sweatpants",
+    "price": 82.0,
+    "colors": [
+      "plum"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26718_plum_22-09-26_4.jpg?v=1792099854",
+    "product_url": "https://edikted.com/products/s26718_plum"
+  },
+  {
+    "id": "edikte_11218410176679",
+    "brand": "Edikted",
+    "tier": "mid",
+    "category": "dress",
+    "title": "Aliara Sequin Lacey Mini Dress",
+    "price": 102.0,
+    "colors": [
+      "navy"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26902_navy_23-09-269.jpg?v=1791975815",
+    "product_url": "https://edikted.com/products/s26902_navy"
+  },
+  {
+    "id": "edikte_11218409947303",
+    "brand": "Edikted",
+    "tier": "mid",
+    "category": "dress",
+    "title": "Brandie Sequin Mini Dress",
+    "price": 94.0,
+    "colors": [
+      "dark-gray"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26623_dark-gray_22-09-265.jpg?v=1791985668",
+    "product_url": "https://edikted.com/products/s26623_dark-gray"
+  },
+  {
+    "id": "edikte_11211200004263",
+    "brand": "Edikted",
+    "tier": "mid",
+    "category": "bag",
+    "title": "Faux Leather Grommet Bag",
+    "price": 80.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3400_black_06-10-266_1ec17d3e-b5a2-401d-891d-6f6b0041a6c9.jpg?v=1791975236",
+    "product_url": "https://edikted.com/products/acc3440_black"
+  },
+  {
+    "id": "edikte_11207678787751",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "90's Babe Round Sunglasses",
+    "price": 24.0,
+    "colors": [
+      "black-and-brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc2637_black-and-brown_02-09-264.jpg?v=1791980625",
+    "product_url": "https://edikted.com/products/acc2637_black-and-brown"
+  },
+  {
+    "id": "edikte_11207678754983",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "90's Babe Round Sunglasses",
+    "price": 24.0,
+    "colors": [
+      "burgundy"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc2637_burgundy_02-09-26-2.jpg?v=1791988978",
+    "product_url": "https://edikted.com/products/acc2637_burgundy"
+  },
+  {
+    "id": "edikte_11207678722215",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Sionna Rectangle Sunglasses",
+    "price": 24.0,
+    "colors": [
+      "tortoise"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc2477_tortoise_22-09-261.jpg?v=1791980607",
+    "product_url": "https://edikted.com/products/acc2477_tortoise"
+  },
+  {
+    "id": "edikte_11199571689639",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Denim Cadet Hat",
+    "price": 34.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3056_black4.jpg?v=1791980592",
+    "product_url": "https://edikted.com/products/acc3056_black"
+  },
+  {
+    "id": "edikte_11194985775271",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Sequin Angels Tote Bag",
+    "price": 42.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3361_black_01-10-2618.jpg?v=1791975339",
+    "product_url": "https://edikted.com/products/acc3361_black"
+  },
+  {
+    "id": "edikte_11188028965031",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Fuzzy Cloud Socks",
+    "price": 8.0,
+    "colors": [
+      "light-blue"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3421_light-blue_01-10-261.jpg?v=1791975299",
+    "product_url": "https://edikted.com/products/acc3421_light-blue"
+  },
+  {
+    "id": "edikte_11215575220391",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Basic Girl Wide Leg Edikted Sweatpants",
+    "price": 37.0,
+    "colors": [
+      "plum"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s22101_plum_s22102_plum_1.jpg?v=1791921921",
+    "product_url": "https://edikted.com/products/s22102_plum"
+  },
+  {
+    "id": "edikte_11215575089319",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Dayna Contrast Foldover Straight Leg Pants",
+    "price": 32.0,
+    "colors": [
+      "gray-melange-and-white"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s25377_gray-melange_and-white_s25378_gray-melange_and-white_30-09-26_51.jpg?v=1791844162",
+    "product_url": "https://edikted.com/products/s25378_gray-melange-and-white"
+  },
+  {
+    "id": "edikte_11215575056551",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Hennie Sweat Shorts",
+    "price": 20.0,
+    "colors": [
+      "sweet-mint"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s25395_sweet_mint_s25397_sweet_mint_30-09-26_94.jpg?v=1791844039",
+    "product_url": "https://edikted.com/products/s25397_sweet-mint"
+  },
+  {
+    "id": "edikte_11215574958247",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Idha Contrast Foldover Baggy Sweatpants",
+    "price": 39.0,
+    "colors": [
+      "turquoise"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/Frame189.jpg?v=1792190894",
+    "product_url": "https://edikted.com/products/s25303_turquoise"
+  },
+  {
+    "id": "edikte_11215574859943",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Tima Bandage Halter Mini Dress",
+    "price": 40.0,
+    "colors": [
+      "plum"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26328_plum_23-09-267.jpg?v=1791895766",
+    "product_url": "https://edikted.com/products/s26328_plum"
+  },
+  {
+    "id": "edikte_11215574630567",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Haylee Low Rise Wide Leg Jeans",
+    "price": 59.0,
+    "colors": [
+      "plum"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s25798_aqua_s27083_plum_22-09-2610_20f58d02-4257-47ec-a43b-b5ec4e1f1929.jpg?v=1792076223",
+    "product_url": "https://edikted.com/products/s27083_plum"
+  },
+  {
+    "id": "edikte_11215574597799",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Daylee Zebra Satin Effect Mini Dress",
+    "price": 37.0,
+    "colors": [
+      "mix"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s27077_mix_06-10-265copy.jpg?v=1791875071",
+    "product_url": "https://edikted.com/products/s27077_mix"
+  },
+  {
+    "id": "edikte_11215574565031",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Bayley Low Rise Faux Leather Pants",
+    "price": 53.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s24732_beige_s27223_black4_e7263ddb-9987-4068-831e-7059b4688a6b.jpg?v=1791895975",
+    "product_url": "https://edikted.com/products/s27223_black"
+  },
+  {
+    "id": "edikte_11189531082919",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Girla Low Rise Wide Leg Jeans",
+    "price": 55.0,
+    "colors": [
+      "dark-blue-washed"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s27221_gold_s26179_dark-blue-washed_06-10-269.jpg?v=1791896178",
+    "product_url": "https://edikted.com/products/s26179_dark-blue-washed"
+  },
+  {
+    "id": "edikte_11169542963367",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Fringed Chunky Scarf",
+    "price": 13.0,
+    "colors": [
+      "blue"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc2315_blue_23-09-268.jpg?v=1791740262",
+    "product_url": "https://edikted.com/products/acc2315_blue"
+  },
+  {
+    "id": "edikte_11209586016423",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Deila Polka Dot Edikted Sweatpants",
+    "price": 40.0,
+    "colors": [
+      "navy"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s25864_navy_22-09-267.jpg?v=1791462762",
+    "product_url": "https://edikted.com/products/s25864_navy"
+  },
+  {
+    "id": "edikte_11209585918119",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Esme Low Rise Sweatpants",
+    "price": 39.0,
+    "colors": [
+      "sweet-mint"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s27261_mint_s27327_mint_30-09-26110_8c82decb-6324-4e95-a7dc-1ed366b6f018.jpg?v=1791467322",
+    "product_url": "https://edikted.com/products/s27327_sweet-mint"
+  },
+  {
+    "id": "edikte_11209585361063",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Lonnie Starry Sweatpants",
+    "price": 39.0,
+    "colors": [
+      "coral"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26573_coral_22-09-26_15_copy.jpg?v=1791564391",
+    "product_url": "https://edikted.com/products/s26573_coral"
+  },
+  {
+    "id": "edikte_11209585066151",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Gracy Lacey Chiffon Mini Dress",
+    "price": 39.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26308_black_30-09-268copy.jpg?v=1791876338",
+    "product_url": "https://edikted.com/products/s26308_black"
+  },
+  {
+    "id": "edikte_11209584836775",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Tasmin Lacey Sequin Mini Dress",
+    "price": 49.0,
+    "colors": [
+      "pink-and-purple"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26591_pink-and-purple_30-09-26_11.jpg?v=1791494793",
+    "product_url": "https://edikted.com/products/s26591_pink-and-purple"
+  },
+  {
+    "id": "edikte_11209584771239",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Marty Satin Effect Mini Dress",
+    "price": 47.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26897_black8copy.jpg?v=1791716594",
+    "product_url": "https://edikted.com/products/s26897_black"
+  },
+  {
+    "id": "edikte_11209584738471",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Delaina Rhinestone Chiffon Mini Dress",
+    "price": 49.0,
+    "colors": [
+      "burgundy"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s24813_burgundy_22-09-263.jpg?v=1791462598",
+    "product_url": "https://edikted.com/products/s24813_burgundy"
+  },
+  {
+    "id": "edikte_11205797019815",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Chainmail Hand Chain",
+    "price": 12.0,
+    "colors": [
+      "silver"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3434_silver_01-10-263.jpg?v=1791467087",
+    "product_url": "https://edikted.com/products/acc3434_silver"
+  },
+  {
+    "id": "edikte_11205796954279",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Chainmail Bracelet",
+    "price": 9.0,
+    "colors": [
+      "silver"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3432_silver_01-10-26.jpg?v=1791467106",
+    "product_url": "https://edikted.com/products/acc3432_silver"
+  },
+  {
+    "id": "edikte_11194986365095",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Starry Waistband Tightener",
+    "price": 3.0,
+    "colors": [
+      "silver"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3518_silver_01.jpg?v=1791831231",
+    "product_url": "https://edikted.com/products/acc3518_silver"
+  },
+  {
+    "id": "edikte_11194984300711",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Pearl Ribbed Socks",
+    "price": 6.0,
+    "colors": [
+      "gray"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3420_gray_01-10-26.jpg?v=1791467612",
+    "product_url": "https://edikted.com/products/acc3420_gray"
+  },
+  {
+    "id": "edikte_11188028899495",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Wing Waist Tightener",
+    "price": 4.5,
+    "colors": [
+      "gold"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3424_gold_01-10-26.jpg?v=1791482758",
+    "product_url": "https://edikted.com/products/acc3424_gold"
+  },
+  {
+    "id": "edikte_11187960905895",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Frilly Pointelle Socks",
+    "price": 4.0,
+    "colors": [
+      "white"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3419_white_01-10-265.jpg?v=1791467750",
+    "product_url": "https://edikted.com/products/acc3419_white"
+  },
+  {
+    "id": "edikte_11169542832295",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Knit Striped Scarf",
+    "price": 18.0,
+    "colors": [
+      "red"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3375_red_23-09-2618.jpg?v=1791467134",
+    "product_url": "https://edikted.com/products/acc3375_red"
+  },
+  {
+    "id": "edikte_11167467700391",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Fringed Chunky Scarf",
+    "price": 13.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc2315_black_23-09-265.jpg?v=1791467161",
+    "product_url": "https://edikted.com/products/acc2315_black"
+  },
+  {
+    "id": "edikte_11189532131495",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bag",
+    "title": "City Lover Bag",
+    "price": 36.0,
+    "colors": [
+      "teal"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3175_teal_41_27bd8f89-9780-4661-bee3-ef842058061e.jpg?v=1791892007",
+    "product_url": "https://edikted.com/products/acc3175_teal"
+  },
+  {
+    "id": "edikte_11189530755239",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Faux Leather Heart Locket Bag",
+    "price": 34.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3397_black_01-10-2616.jpg?v=1791369476",
+    "product_url": "https://edikted.com/products/acc3397_black"
+  },
+  {
+    "id": "edikte_11205796724903",
+    "brand": "Edikted",
+    "tier": "mid",
+    "category": "dress",
+    "title": "Dedey Bead & Sequin Mini Dress",
+    "price": 82.0,
+    "colors": [
+      "dark-gray"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26119_dark-gray_30-09-265.jpg?v=1791279120",
+    "product_url": "https://edikted.com/products/s26119_dark-gray"
+  },
+  {
+    "id": "edikte_11200469631143",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Gordie Strapless Satin Effect Mini Dress",
+    "price": 40.0,
+    "colors": [
+      "brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26689_brown_08-09-2641_d6b80bce-a43c-4a58-a4f4-ad9e10348946.jpg?v=1791374114",
+    "product_url": "https://edikted.com/products/s26689_brown"
+  },
+  {
+    "id": "edikte_11200469041319",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Rochel Rhinestone Cutout Mini Dress",
+    "price": 49.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26630_black_08-09-263_99274b8c-20cf-4c19-9432-95b183c6dd57.jpg?v=1791394378",
+    "product_url": "https://edikted.com/products/s26630_black"
+  },
+  {
+    "id": "edikte_11200468746407",
     "brand": "Edikted",
     "tier": "budget",
     "category": "outerwear",
     "title": "Tamy High Neck Denim Jacket",
     "price": 68.0,
     "colors": [
-      "blue washed"
+      "blue-washed"
     ],
-    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26685_blue-washed_08-09-2650.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26685_blue-washed_08-09-2650.jpg?v=1791126629",
     "product_url": "https://edikted.com/products/s26685_blue-washed"
   },
   {
-    "id": "edikted_naeva",
+    "id": "edikte_11200468451495",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Kya Lacey Satin Effect Mini Skort",
+    "price": 42.0,
+    "colors": [
+      "brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26515_brown_s26788_brown_02-09-265.jpg?v=1791126719",
+    "product_url": "https://edikted.com/products/s26788_brown"
+  },
+  {
+    "id": "edikte_11178298048679",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Edikted Studded Tote Bag",
+    "price": 14.0,
+    "colors": [
+      "turquoise"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3094_turquoise_23-09-2612.jpg?v=1791120293",
+    "product_url": "https://edikted.com/products/acc3094_turquoise"
+  },
+  {
+    "id": "edikte_11178297786535",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Rhinestone Angel Tote Bag",
+    "price": 16.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3284_black_23-09-263_0f36f337-8fe3-4c47-94cd-4206e540a54c.jpg?v=1791190410",
+    "product_url": "https://edikted.com/products/acc3284_black"
+  },
+  {
+    "id": "edikte_11178297262247",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Cool Girl Shop Edikted Tote Bag",
+    "price": 14.0,
+    "colors": [
+      "blue"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3321_blue_23-09-261_79c55df2-3ec0-4f06-8628-cf083a211f94.jpg?v=1790778993",
+    "product_url": "https://edikted.com/products/acc3321_blue"
+  },
+  {
+    "id": "edikte_11171280257191",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Oliviah Stud Faux Leather Bag",
+    "price": 46.0,
+    "colors": [
+      "pink"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc2634_pink_23-09-26_6.jpg?v=1790868655",
+    "product_url": "https://edikted.com/products/acc2634_pink"
+  },
+  {
+    "id": "edikte_11189529346215",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bag",
+    "title": "UK Girly Bag",
+    "price": 46.0,
+    "colors": [
+      "navy"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3282_navy_26-08-26.jpg?v=1790676448",
+    "product_url": "https://edikted.com/products/acc3282_navy"
+  },
+  {
+    "id": "edikte_11178297688231",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Busy Girl Bag",
+    "price": 39.0,
+    "colors": [
+      "pink"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3385_pink_23-09-26_9.jpg?v=1790713961",
+    "product_url": "https://edikted.com/products/acc3385_pink"
+  },
+  {
+    "id": "edikte_11178297295015",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Emotional Baggage Tote Bag",
+    "price": 14.0,
+    "colors": [
+      "gray"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/acc3322_gray_22-09-26_7.jpg?v=1790629652",
+    "product_url": "https://edikted.com/products/acc3322_gray"
+  },
+  {
+    "id": "edikte_11178296901799",
+    "brand": "Edikted",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "Aloura Faux Leather Bomber Jacket",
+    "price": 104.0,
+    "colors": [
+      "brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26463_brown_26-08-2672.jpg?v=1790590137",
+    "product_url": "https://edikted.com/products/s26463_brown"
+  },
+  {
+    "id": "edikte_11073629782183",
     "brand": "Edikted",
     "tier": "budget",
     "category": "outerwear",
@@ -35,63 +906,11 @@
     "colors": [
       "tan"
     ],
-    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/Frame160.png",
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/Frame160.png?v=1791583475",
     "product_url": "https://edikted.com/products/s25868_tan"
   },
   {
-    "id": "pp_cassie",
-    "brand": "Princess Polly",
-    "tier": "budget",
-    "category": "outerwear",
-    "title": "Cassie Trench Coat Black",
-    "price": 45.0,
-    "colors": [
-      "black"
-    ],
-    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/products/abihoffman---Cassie-Trench-Coat-Black---US2.jpg",
-    "product_url": "https://us.princesspolly.com/products/cassie-trench-coat-black"
-  },
-  {
-    "id": "pp_stageleft",
-    "brand": "Princess Polly",
-    "tier": "mid",
-    "category": "outerwear",
-    "title": "Stage Left Cropped Military Jacket Black",
-    "price": 85.0,
-    "colors": [
-      "black"
-    ],
-    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-olivia-us2_94a7a572-b822-4e1b-957a-1ea436c068a2.jpg",
-    "product_url": "https://us.princesspolly.com/products/stage-left-cropped-military-jacket-black"
-  },
-  {
-    "id": "pp_marykate",
-    "brand": "Princess Polly",
-    "tier": "mid",
-    "category": "outerwear",
-    "title": "Marykate Funnel Neck Fitted Jacket Washed Black",
-    "price": 95.0,
-    "colors": [
-      "washed black"
-    ],
-    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-kayla-us2_926e1af3-97a8-4725-9cf3-4ce58b13387e.jpg",
-    "product_url": "https://us.princesspolly.com/products/marykate-funnel-neck-fitted-jacket-washed-black"
-  },
-  {
-    "id": "pp_alfea",
-    "brand": "Princess Polly",
-    "tier": "mid",
-    "category": "outerwear",
-    "title": "Alfea Funnel Neck Denim Bomber Jacket Mid Blue Wash",
-    "price": 105.0,
-    "colors": [
-      "mid blue wash"
-    ],
-    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-georgina-us2.jpg",
-    "product_url": "https://us.princesspolly.com/products/alfea-funnel-neck-denim-bomber-jacket-mid-blue-wash"
-  },
-  {
-    "id": "edikted_reara",
+    "id": "edikte_11178296869031",
     "brand": "Edikted",
     "tier": "mid",
     "category": "outerwear",
@@ -100,11 +919,37 @@
     "colors": [
       "black"
     ],
-    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26392_black_25-08-2664.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26392_black_25-08-2664.jpg?v=1790162254",
     "product_url": "https://edikted.com/products/s26392_black"
   },
   {
-    "id": "edikted_mariem",
+    "id": "edikte_11178296606887",
+    "brand": "Edikted",
+    "tier": "budget",
+    "category": "outerwear",
+    "title": "Corinne Nylon Oversized High Neck Jacket",
+    "price": 59.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26375_black_26-08-2615.jpg?v=1790162359",
+    "product_url": "https://edikted.com/products/s26375_black"
+  },
+  {
+    "id": "edikte_11107239297191",
+    "brand": "Edikted",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "Chaya High Neck Faux Suede Jacket",
+    "price": 99.0,
+    "colors": [
+      "dark-brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/Frame157.png?v=1791583320",
+    "product_url": "https://edikted.com/products/s25862_dark-brown"
+  },
+  {
+    "id": "edikte_11178296672423",
     "brand": "Edikted",
     "tier": "mid",
     "category": "outerwear",
@@ -113,11 +958,1337 @@
     "colors": [
       "black"
     ],
-    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26563_black_25-08-2660.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26563_black_25-08-2660.jpg?v=1789648860",
     "product_url": "https://edikted.com/products/s26563_black"
   },
   {
-    "id": "agolde_blaze",
+    "id": "edikte_11170850144423",
+    "brand": "Edikted",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "Faylin Hooded Faux Fur Jacket",
+    "price": 94.0,
+    "colors": [
+      "brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0467/4148/7783/files/s26588_brown_25-08-2667.jpg?v=1789640871",
+    "product_url": "https://edikted.com/products/s26588_brown"
+  },
+  {
+    "id": "prince_10265923747924",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Tynen Baggy Longline Sweatshorts Grey Marle",
+    "price": 55.0,
+    "colors": [
+      "grey marle"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us4_a4ba13e6-7ba4-444c-9901-7ad012337fbf.jpg?v=1792054404",
+    "product_url": "https://us.princesspolly.com/products/tynen-baggy-longline-sweatshorts-grey-marle"
+  },
+  {
+    "id": "prince_10260984692820",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Tynen Baggy Longline Sweatshorts Pink",
+    "price": 55.0,
+    "colors": [
+      "pink"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us4.jpg?v=1792049123",
+    "product_url": "https://us.princesspolly.com/products/tynen-baggy-longline-sweatshorts-pink"
+  },
+  {
+    "id": "prince_10265805914196",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Keerah Ruched Maxi Skirt Black",
+    "price": 59.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us4_c081947d-939d-434e-80b2-a8075f98a017.jpg?v=1792054403",
+    "product_url": "https://us.princesspolly.com/products/keerah-ruched-maxi-skirt-black"
+  },
+  {
+    "id": "prince_10265805848660",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "top",
+    "title": "Keerah Tie Neck Halter Top Black",
+    "price": 50.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_5afdd2b8-9398-4ed8-8d68-017f62684cbf.jpg?v=1792054017",
+    "product_url": "https://us.princesspolly.com/products/keerah-tie-neck-halter-top-black"
+  },
+  {
+    "id": "prince_10265805488212",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "top",
+    "title": "Keerah Tie Neck Halter Top Cobalt",
+    "price": 50.0,
+    "colors": [
+      "cobalt"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_520ad5dd-ca61-4f2b-8dda-29fee718f52c.jpg?v=1792054052",
+    "product_url": "https://us.princesspolly.com/products/keerah-tie-neck-halter-top-cobalt"
+  },
+  {
+    "id": "prince_10265805291604",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Keerah Ruched Maxi Skirt Cobalt",
+    "price": 59.0,
+    "colors": [
+      "cobalt"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us4_23006464-c86e-44a8-a3b4-1df67bd60817.jpg?v=1792054397",
+    "product_url": "https://us.princesspolly.com/products/keerah-ruched-maxi-skirt-cobalt"
+  },
+  {
+    "id": "prince_10217647603796",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "top",
+    "title": "Jesemia Halter Blouson Top Brown",
+    "price": 49.0,
+    "colors": [
+      "brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_ab816fd9-e37d-4cbc-8640-a3cc90d09011.jpg?v=1792049384",
+    "product_url": "https://us.princesspolly.com/products/jesemia-halter-blouson-top-brown"
+  },
+  {
+    "id": "prince_9910064480340",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Lunea Concealed Waistband Pants Mushroom Stripe",
+    "price": 69.0,
+    "colors": [
+      "mushroom stripe"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-crystal-us2_b6e6342c-d47d-4f2a-a94a-8b44354e10bc.jpg?v=1784267156",
+    "product_url": "https://us.princesspolly.com/products/lunea-concealed-waistband-pants-mushroom-stripe"
+  },
+  {
+    "id": "prince_10265876758612",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "top",
+    "title": "Gianna Lace Halter Top Brown",
+    "price": 45.0,
+    "colors": [
+      "brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_da299625-1cb2-43f0-b1b8-a9859d928b31.jpg?v=1792049417",
+    "product_url": "https://us.princesspolly.com/products/gianna-lace-halter-top-brown"
+  },
+  {
+    "id": "prince_10171093549140",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "top",
+    "title": "Daily Define Tube Top Purple",
+    "price": 29.0,
+    "colors": [
+      "purple"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_5bdc09d1-e4d4-479a-837c-49f840303bd9.jpg?v=1792050969",
+    "product_url": "https://us.princesspolly.com/products/daily-define-tube-top-purple"
+  },
+  {
+    "id": "prince_10265876004948",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Gianna Lace Skort Brown",
+    "price": 45.0,
+    "colors": [
+      "brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us4_a7492ae1-bbd5-4972-a689-fef1c6639b2f.jpg?v=1792049131",
+    "product_url": "https://us.princesspolly.com/products/gianna-lace-skort-brown"
+  },
+  {
+    "id": "prince_10217628336212",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Daily Define Tie Waist Mini Dress Fresh Purple",
+    "price": 59.0,
+    "colors": [
+      "fresh purple"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_36645b7a-cdfe-44d0-82d0-5b9a1a6f0db4.jpg?v=1792049401",
+    "product_url": "https://us.princesspolly.com/products/daily-define-tie-waist-mini-dress-fresh-purple"
+  },
+  {
+    "id": "prince_10274111258708",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Overdressed Tee Grape",
+    "price": 40.0,
+    "colors": [
+      "grape"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_f194e3d9-d933-4028-9802-37905e7c795a.jpg?v=1792050908",
+    "product_url": "https://us.princesspolly.com/products/overdressed-tee-grape"
+  },
+  {
+    "id": "prince_10184924659796",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "top",
+    "title": "Maxina High Neck Button Up Top Check",
+    "price": 55.0,
+    "colors": [
+      "check"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_984886ce-dd2c-4f7a-9dd8-1f1d59c7f537.jpg?v=1792049421",
+    "product_url": "https://us.princesspolly.com/products/maxina-high-neck-button-up-top-check"
+  },
+  {
+    "id": "prince_10173501866068",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "shoes",
+    "title": "Avedon Heels Chocolate",
+    "price": 55.0,
+    "colors": [
+      "chocolate"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/1_29e4bfd1-ab7a-4b10-841c-020f420591e3.jpg?v=1792124424",
+    "product_url": "https://us.princesspolly.com/products/avedon-heels-chocolate"
+  },
+  {
+    "id": "prince_10192282845268",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Amarra Studded Faux Leather Shoulder Bag Washed Brown",
+    "price": 45.0,
+    "colors": [
+      "washed brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_38078668-9a04-4783-8f4f-1ee955cc9f66.jpg?v=1792128118",
+    "product_url": "https://us.princesspolly.com/products/amarra-studded-faux-leather-shoulder-bag-washed-brown"
+  },
+  {
+    "id": "prince_10192281993300",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Aylaa Sunglasses Silver / Blue",
+    "price": 25.0,
+    "colors": [
+      "silver / blue"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_ce9955a3-3981-4b8e-ad7b-dbf31283aae3.jpg?v=1792124760",
+    "product_url": "https://us.princesspolly.com/products/aylaa-sunglasses-silver-blue"
+  },
+  {
+    "id": "prince_10173502619732",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Klyne Faux Suede Shoulder Bag Tan",
+    "price": 45.0,
+    "colors": [
+      "tan"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_582bc47e-7bae-4f55-9dbe-ff66129910e6.jpg?v=1792125466",
+    "product_url": "https://us.princesspolly.com/products/klyne-faux-leather-bow-detail-shoulder-bag-slate"
+  },
+  {
+    "id": "prince_10184925184084",
+    "brand": "Princess Polly",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "Dalmazia Funnel Neck Jacket Chocolate",
+    "price": 115.0,
+    "colors": [
+      "chocolate"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_7e330e86-3422-4980-980b-4c2b8866ce19.jpg?v=1792104411",
+    "product_url": "https://us.princesspolly.com/products/dalmazia-funnel-neck-jacket-chocolate"
+  },
+  {
+    "id": "prince_10265876398164",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Gianna Lace Skort Red",
+    "price": 45.0,
+    "colors": [
+      "red"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us4_7e61bdf3-376e-4300-8769-072b6b4d2342.jpg?v=1792054484",
+    "product_url": "https://us.princesspolly.com/products/gianna-lace-skort-red"
+  },
+  {
+    "id": "prince_10265877086292",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "top",
+    "title": "Gianna Lace Halter Top Red",
+    "price": 45.0,
+    "colors": [
+      "red"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_d3b497a0-e229-44ce-ba6b-9abf893c5926.jpg?v=1792054038",
+    "product_url": "https://us.princesspolly.com/products/gianna-lace-halter-top-red"
+  },
+  {
+    "id": "prince_10184947630164",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Kaelira Square Neck Frill Short Sleeve Top Black",
+    "price": 49.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_b683d224-5604-4dbe-ba6e-78ed5321f978.jpg?v=1792104410",
+    "product_url": "https://us.princesspolly.com/products/kaelira-square-neck-frill-short-sleeve-top-black"
+  },
+  {
+    "id": "prince_10205525508180",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "outerwear",
+    "title": "Next Page Foldover Long Sleeve Knit Sweater Brown / Yellow Stripe",
+    "price": 75.0,
+    "colors": [
+      "brown / yellow stripe"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_f8efc830-f614-477d-b8cd-a3624cc2537a.jpg?v=1792049412",
+    "product_url": "https://us.princesspolly.com/products/next-page-foldover-long-sleeve-knit-jumper-brown-yellow-stripe"
+  },
+  {
+    "id": "prince_10231187931220",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Tidal Wave Low Rise Straight Leg Jeans Light Vintage Blue",
+    "price": 79.0,
+    "colors": [
+      "light vintage blue"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us4_65124abe-d15e-4dba-91df-dddf7b766752.jpg?v=1792049140",
+    "product_url": "https://us.princesspolly.com/products/tidal-wave-low-rise-straight-leg-jeans-light-vintage-blue"
+  },
+  {
+    "id": "prince_10249201385556",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "top",
+    "title": "Claudiana Gathered Halter Top Black",
+    "price": 49.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_b1f7ade9-272a-4a07-9d27-24b92dca248f.jpg?v=1792049465",
+    "product_url": "https://us.princesspolly.com/products/claudiana-gathered-halter-top-black"
+  },
+  {
+    "id": "prince_10147856023636",
+    "brand": "Princess Polly",
+    "tier": "mid",
+    "category": "bottom",
+    "title": "Mistree Mid Rise Baggy Cargo Jeans Taupe",
+    "price": 95.0,
+    "colors": [
+      "taupe"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us4_25aaf44f-ee24-4502-86a4-04d6b4c54a5c.jpg?v=1792049130",
+    "product_url": "https://us.princesspolly.com/products/mistree-mid-rise-baggy-cargo-jeans-washed-brown"
+  },
+  {
+    "id": "prince_10215300464724",
+    "brand": "Princess Polly",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "Stevvie Faux Fur Collared Jacket Black / Leopard",
+    "price": 115.0,
+    "colors": [
+      "leopard"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_28b6cb20-6f8f-4389-8f24-6e6e1760aedf.jpg?v=1792104415",
+    "product_url": "https://us.princesspolly.com/products/zevvy-faux-fur-collared-jacket-black-leopard"
+  },
+  {
+    "id": "prince_10186366255188",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Journee High V Spliced Tee Chocolate / Red",
+    "price": 39.0,
+    "colors": [
+      "chocolate / red"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_62c8bfe3-937c-4619-87af-1ac32abfaf38.jpg?v=1792049413",
+    "product_url": "https://us.princesspolly.com/products/journee-high-v-spliced-tee-chocolate-red"
+  },
+  {
+    "id": "prince_10217627385940",
+    "brand": "Princess Polly",
+    "tier": "mid",
+    "category": "dress",
+    "title": "Celena Chiffon Maxi Dress Leopard Multi",
+    "price": 85.0,
+    "colors": [
+      "leopard multi"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_a9a3efe2-943c-4e13-b662-375f7c6475e9.jpg?v=1792049408",
+    "product_url": "https://us.princesspolly.com/products/celena-maxi-dress-leopard-multi"
+  },
+  {
+    "id": "prince_10192280485972",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Aysher Halter Lace Detail Mini Dress Black",
+    "price": 69.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_a3faf5d5-0599-43ff-8a74-7d0ec00ccc43.jpg?v=1792054023",
+    "product_url": "https://us.princesspolly.com/products/aysher-halter-lace-detail-mini-dress-black"
+  },
+  {
+    "id": "prince_10192285532244",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Emeliah Asymmetrical Plunge Midi Dress Brown",
+    "price": 79.0,
+    "colors": [
+      "brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_a001b086-62fc-40d0-8150-568a2e4c95bc.jpg?v=1792049532",
+    "product_url": "https://us.princesspolly.com/products/emeliah-asymmetrical-plunge-midi-dress-brown"
+  },
+  {
+    "id": "prince_10217627549780",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Adriannah Halter Ruched Maxi Dress Plum",
+    "price": 79.0,
+    "colors": [
+      "plum"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dekota-us2_9db9ba38-b7c1-4930-a079-bd9767aa2b78.jpg?v=1792049400",
+    "product_url": "https://us.princesspolly.com/products/adriannah-halter-ruched-maxi-dress-plum"
+  },
+  {
+    "id": "prince_9204714078292",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "top",
+    "title": "Kecia Long Sleeve Lace Top Black Curve",
+    "price": 59.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-ella-us14_fd30bdcd-900c-45c4-b11a-246551343ca7.jpg?v=1786411805",
+    "product_url": "https://us.princesspolly.com/products/kecia-long-sleeve-lace-top-black-curve"
+  },
+  {
+    "id": "prince_10263384031316",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Hudsen Longline Cargo Shorts Cream Tall",
+    "price": 69.0,
+    "colors": [
+      "tall"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-georgina-us4_baf5cc06-ed5e-4441-8b7e-ed9877d2f0af.jpg?v=1792123761",
+    "product_url": "https://us.princesspolly.com/products/hudsen-longline-cargo-shorts-cream-tall"
+  },
+  {
+    "id": "prince_10192286482516",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "top",
+    "title": "Khendall Off Shoulder Top Multi Check",
+    "price": 49.0,
+    "colors": [
+      "multi check"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-guste-us2_67db8fc3-97a9-4062-ab6c-06bdfb281a14.jpg?v=1791954228",
+    "product_url": "https://us.princesspolly.com/products/khendall-off-shoulder-top-multi-check"
+  },
+  {
+    "id": "prince_10276116332628",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Stefenie Denim Skort Washed Black Tall",
+    "price": 54.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-taneisha-us2_f592247b-96fd-4035-b701-acf75dc414cd.jpg?v=1792123467",
+    "product_url": "https://us.princesspolly.com/products/stefenie-denim-skort-washed-black-tall"
+  },
+  {
+    "id": "prince_10232551014484",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "outerwear",
+    "title": "Carluna Keyhole Oversized Knit Sweater Brown",
+    "price": 75.0,
+    "colors": [
+      "brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-guste-us2_3ccc39fd-c1db-47aa-9c91-27f807c184f9.jpg?v=1791953561",
+    "product_url": "https://us.princesspolly.com/products/carluna-keyhole-oversized-knit-jumper-brown"
+  },
+  {
+    "id": "prince_10276116201556",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bottom",
+    "title": "Stefenie Denim Skort Washed Black Petite",
+    "price": 54.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-taneisha-us2_d47e2b94-f755-46c4-a6ff-7dee8839c100.jpg?v=1792122405",
+    "product_url": "https://us.princesspolly.com/products/stefenie-denim-skort-washed-black-petite"
+  },
+  {
+    "id": "prince_10265873973332",
+    "brand": "Princess Polly",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "Westwind Trench Coat Chocolate",
+    "price": 105.0,
+    "colors": [
+      "chocolate"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-guste-us2_266ee8b2-be88-46d1-8681-48862cfa0b40.jpg?v=1791954236",
+    "product_url": "https://us.princesspolly.com/products/westwind-trench-coat-chocolate"
+  },
+  {
+    "id": "prince_10265873645652",
+    "brand": "Princess Polly",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "Adelaiide Cropped Wrap Trench Jacket Chocolate",
+    "price": 105.0,
+    "colors": [
+      "chocolate"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-guste-us2_26b51d56-e029-4550-9e32-320c6979b729.jpg?v=1791953565",
+    "product_url": "https://us.princesspolly.com/products/adelaiide-cropped-wrap-trench-jacket-chocolate"
+  },
+  {
+    "id": "prince_10178865430612",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "top",
+    "title": "Aeriell Draped Top Blue",
+    "price": 45.0,
+    "colors": [
+      "blue"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-guste-us2_a1b0edbe-eac4-4223-94be-611f9c31781e.jpg?v=1791953564",
+    "product_url": "https://us.princesspolly.com/products/aeriell-draped-top-blue-grey"
+  },
+  {
+    "id": "prince_10217650913364",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "top",
+    "title": "Madalyna Long Sleeve Keyhole Micro Top Cream",
+    "price": 49.0,
+    "colors": [
+      "cream"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-guste-us2_cf14e704-c6bc-49e9-a4b2-b87fc625ea69.jpg?v=1791954250",
+    "product_url": "https://us.princesspolly.com/products/madalyna-long-sleeve-keyhole-micro-top-cream"
+  },
+  {
+    "id": "prince_10235566194772",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Odyssa Halter Mini Dress Purple Tall",
+    "price": 75.0,
+    "colors": [
+      "purple"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-phoebe-us2_ef6f5e75-6a0a-4038-9fef-30876e53fed3.jpg?v=1792122145",
+    "product_url": "https://us.princesspolly.com/products/odyssa-halter-mini-dress-purple-tall"
+  },
+  {
+    "id": "prince_10235566391380",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Odyssa Halter Mini Dress Purple Petite",
+    "price": 75.0,
+    "colors": [
+      "purple"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-phoebe-us2_c7f92da0-9840-44ef-90fd-61d33d1a698d.jpg?v=1792121499",
+    "product_url": "https://us.princesspolly.com/products/odyssa-halter-mini-dress-purple-petite"
+  },
+  {
+    "id": "prince_7757287653460",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "top",
+    "title": "Currents Cut Out Detail Top Black Curve",
+    "price": 44.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-yasmine-us14_f019cca9-0bf4-48bc-80c9-3ddf822381e3.jpg?v=1765490128",
+    "product_url": "https://us.princesspolly.com/products/currents-cut-out-detail-top-black-curve"
+  },
+  {
+    "id": "prince_10236763045972",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Elorra Strapless Mini Dress Green",
+    "price": 75.0,
+    "colors": [
+      "green"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-hailey-us4_c16cfc6e-e30e-4411-9921-5e2a25659dbd.jpg?v=1791448176",
+    "product_url": "https://us.princesspolly.com/products/elorra-strapless-mini-dress-green"
+  },
+  {
+    "id": "prince_10253271269460",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Zarevia Off Shoulder Long Sleeve Mini Dress Black",
+    "price": 69.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-guste-us2_c96838d8-feed-4406-945b-cd8929142f55.jpg?v=1791954267",
+    "product_url": "https://us.princesspolly.com/products/zarevia-off-shoulder-long-sleeve-mini-dress-black"
+  },
+  {
+    "id": "prince_10187205017684",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Big Picture Chiffon Babydoll Frill Mini Dress Soft Pink",
+    "price": 75.0,
+    "colors": [
+      "soft pink"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-guste-us2_d0996a30-ae9e-42bc-878d-7f9b304d5dbb.jpg?v=1791953551",
+    "product_url": "https://us.princesspolly.com/products/big-picture-chiffon-babydoll-frill-mini-dress-soft-pink"
+  },
+  {
+    "id": "prince_10269599694932",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Solena Blouson V Neck Knit Mini Dress Burgundy",
+    "price": 75.0,
+    "colors": [
+      "burgundy"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-guste-us2_19c4c6fa-8081-4291-9204-39d8704a0e8e.jpg?v=1791954244",
+    "product_url": "https://us.princesspolly.com/products/solena-blouson-v-neck-knit-mini-dress-burgundy"
+  },
+  {
+    "id": "prince_10255161819220",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Felicita Off Shoulder Long Sleeve Chiffon Mini Dress Cherry",
+    "price": 75.0,
+    "colors": [
+      "cherry"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-guste-us2_25ae1a30-a497-48e5-89bf-1532161c4d25.jpg?v=1791953570",
+    "product_url": "https://us.princesspolly.com/products/felicita-off-shoulder-long-sleeve-chiffon-mini-dress-cherry"
+  },
+  {
+    "id": "prince_10217644884052",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "dress",
+    "title": "Loveliness Romper Brown Stripe",
+    "price": 65.0,
+    "colors": [
+      "brown stripe"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-guste-us2_f3591799-3dd5-4c6a-a10d-bef6f4176443.jpg?v=1791954239",
+    "product_url": "https://us.princesspolly.com/products/loveliness-romper-brown-stripe"
+  },
+  {
+    "id": "prince_7894252683348",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "top",
+    "title": "Amia Lace V Neck Top Black Polka Dot",
+    "price": 49.0,
+    "colors": [
+      "black polka dot"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-guste-us2_7a79b2f1-96cc-4fb4-a956-05c2de1ba709.jpg?v=1791953549",
+    "product_url": "https://us.princesspolly.com/products/amia-lace-v-neck-top-black-polka-dot"
+  },
+  {
+    "id": "prince_10192281665620",
+    "brand": "Princess Polly",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "Henrea Knit Sweater Brown / Blue Stripe",
+    "price": 85.0,
+    "colors": [
+      "brown / blue stripe"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-guste-us2_a4dfabde-d0f5-4fda-a24d-405a8101e40c.jpg?v=1791953561",
+    "product_url": "https://us.princesspolly.com/products/henrea-knit-sweater-brown-blue-stripe"
+  },
+  {
+    "id": "prince_10241748303956",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "outerwear",
+    "title": "Kovah Zip Through Funnel Neck Knit Sweater Blue",
+    "price": 75.0,
+    "colors": [
+      "blue"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-guste-us2_8c21669b-12bc-42ef-8a3b-adf4c8f656d9.jpg?v=1791954250",
+    "product_url": "https://us.princesspolly.com/products/kovah-zip-through-funnel-neck-knit-sweater-blue"
+  },
+  {
+    "id": "prince_10192282124372",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Everett Oversized Sunglasses Black",
+    "price": 25.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_311f58c1-5b2c-4bbb-ad62-f61430c193ee.jpg?v=1792038050",
+    "product_url": "https://us.princesspolly.com/products/everett-oversized-sunglasses-black"
+  },
+  {
+    "id": "prince_10217645670484",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Colter Faux Leather Textured Shoulder Bag Brown",
+    "price": 39.0,
+    "colors": [
+      "brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_e85ad1da-296c-4de4-967c-e8c9491971a6.jpg?v=1792037537",
+    "product_url": "https://us.princesspolly.com/products/colter-faux-leather-textured-shoulder-bag-brown"
+  },
+  {
+    "id": "prince_10217645408340",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Greyson Shoulder Bag Taupe",
+    "price": 45.0,
+    "colors": [
+      "taupe"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_f84a53f6-520d-4338-9f13-d7193878bd78.jpg?v=1792036884",
+    "product_url": "https://us.princesspolly.com/products/greyson-shoulder-bag-taupe"
+  },
+  {
+    "id": "prince_10192282091604",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Everett Oversized Sunglasses Tort",
+    "price": 25.0,
+    "colors": [
+      "tort"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/Everett-Oversized-Sunglasses-Tort.jpg?v=1792036281",
+    "product_url": "https://us.princesspolly.com/products/everett-oversized-sunglasses-tort"
+  },
+  {
+    "id": "prince_10217645310036",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Evanna Faux Leather Belt Brown",
+    "price": 39.0,
+    "colors": [
+      "brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_58fb8465-bdfa-4c14-ae8e-a87647c93f0e.jpg?v=1791504413",
+    "product_url": "https://us.princesspolly.com/products/evanna-faux-leather-belt-brown"
+  },
+  {
+    "id": "prince_10221217448020",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "LA Dodgers Core Classic Cap White",
+    "price": 31.99,
+    "colors": [
+      "white"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_94ca4991-5417-455a-8b83-ede42b345e99.jpg?v=1787202868",
+    "product_url": "https://us.princesspolly.com/products/la-dogers-core-classic-cap-white"
+  },
+  {
+    "id": "prince_10221217218644",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "NY Yankees Core Classic Cap Grey",
+    "price": 31.99,
+    "colors": [
+      "grey"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_554e0ab5-4c00-4ce3-adec-bf47928c4fc3.jpg?v=1787202717",
+    "product_url": "https://us.princesspolly.com/products/ny-yankees-core-classic-cap-grey"
+  },
+  {
+    "id": "prince_7894585475156",
+    "brand": "Princess Polly",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "Alfea Funnel Neck Denim Bomber Jacket Mid Blue Wash",
+    "price": 105.0,
+    "colors": [
+      "mid blue wash"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-georgina-us2.jpg?v=1788498872",
+    "product_url": "https://us.princesspolly.com/products/alfea-funnel-neck-denim-bomber-jacket-mid-blue-wash"
+  },
+  {
+    "id": "prince_8179353092180",
+    "brand": "Princess Polly",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "Tayne Funnel Neck Jacket Caramel",
+    "price": 115.0,
+    "colors": [
+      "caramel"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-kiana-us2_582dbc17-38eb-4b06-b128-c668ac74fc8b.jpg?v=1779934010",
+    "product_url": "https://us.princesspolly.com/products/tayne-funnel-neck-jacket-caramel"
+  },
+  {
+    "id": "prince_9775119237204",
+    "brand": "Princess Polly",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "Ellissa Faux Suede Bomber Jacket Khaki",
+    "price": 94.0,
+    "colors": [
+      "khaki"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-holly-us2_f35a31c7-3b11-4770-87a5-62d681f31378.jpg?v=1784073824",
+    "product_url": "https://us.princesspolly.com/products/ellissa-faux-suede-bomber-jacket-khaki"
+  },
+  {
+    "id": "prince_10150014910548",
+    "brand": "Princess Polly",
+    "tier": "mid",
+    "category": "outerwear",
+    "title": "Khodana Funnel Neck Button Down Jacket Micro Brown Check",
+    "price": 105.0,
+    "colors": [
+      "micro brown check"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-dana-us2_1bc5da57-ac05-4ce2-9106-19db84eaf8ba.jpg?v=1785727481",
+    "product_url": "https://us.princesspolly.com/products/khodana-funnel-neck-button-down-jacket-micro-brown-check"
+  },
+  {
+    "id": "prince_10155510038612",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "outerwear",
+    "title": "Emerica V Neck Cinched Sweater White",
+    "price": 65.0,
+    "colors": [
+      "white"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-crystal-us2_bba020d2-ff36-45b7-9d6a-4e7035e164d8.jpg?v=1788305072",
+    "product_url": "https://us.princesspolly.com/products/emerica-v-neck-cinched-sweater-white"
+  },
+  {
+    "id": "prince_10155510202452",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "outerwear",
+    "title": "Emerica V Neck Cinched Sweater Grey",
+    "price": 65.0,
+    "colors": [
+      "grey"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0-modelinfo-crystal-us2_5a40e620-92a7-498d-81bc-adcd2728ee46.jpg?v=1788392140",
+    "product_url": "https://us.princesspolly.com/products/emerica-v-neck-cinched-sweater-grey"
+  },
+  {
+    "id": "prince_10261039153236",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Caevia Fluffy Beanie Cobalt",
+    "price": 25.0,
+    "colors": [
+      "cobalt"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/CaeviaFluffyBeanieCobalt.jpg?v=1791526175",
+    "product_url": "https://us.princesspolly.com/products/caevia-fluffy-beanie-cobalt"
+  },
+  {
+    "id": "prince_10261039186004",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Caevia Fluffy Beanie Black",
+    "price": 25.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/CaeviaFluffyBeanieBlack.jpg?v=1791526154",
+    "product_url": "https://us.princesspolly.com/products/caevia-fluffy-beanie-black"
+  },
+  {
+    "id": "prince_10181763104852",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Elira Chain Belt Gold",
+    "price": 22.0,
+    "colors": [
+      "gold"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/EliraChainBeltGold.jpg?v=1791526222",
+    "product_url": "https://us.princesspolly.com/products/elira-chain-belt-gold"
+  },
+  {
+    "id": "prince_10166595944532",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Aeriana Faux Leather Wide Belt Chocolate",
+    "price": 29.0,
+    "colors": [
+      "chocolate"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/AerianaFauxLeatherWideBeltChocolate.jpg?v=1791526250",
+    "product_url": "https://us.princesspolly.com/products/aeriana-faux-leather-wide-belt-chocolate"
+  },
+  {
+    "id": "prince_10166596862036",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "The Other Side Belt Grey / Silver",
+    "price": 28.0,
+    "colors": [
+      "grey / silver"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/TheOtherSideBeltGrey_Silver.jpg?v=1791525996",
+    "product_url": "https://us.princesspolly.com/products/the-other-side-belt-grey-silver"
+  },
+  {
+    "id": "prince_7844501422164",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Elevara Hoop Earrings Silver",
+    "price": 16.0,
+    "colors": [
+      "silver"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_9e1616ea-86d2-4383-981d-416e0ce1c4e2.jpg?v=1778539987",
+    "product_url": "https://us.princesspolly.com/products/elevara-hoop-earrings-silver"
+  },
+  {
+    "id": "prince_10253271105620",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "Avenelle Cord Newsboy Hat Fawn",
+    "price": 25.0,
+    "colors": [
+      "fawn"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_2fe4a274-6881-4b00-aed5-8f73291c9ca2.jpg?v=1791504966",
+    "product_url": "https://us.princesspolly.com/products/avenelle-cord-newsboy-hat-fawn"
+  },
+  {
+    "id": "prince_10236876652628",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "accessory",
+    "title": "October Sky Pirate Hat Brown",
+    "price": 29.0,
+    "colors": [
+      "brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_fc99f825-5ab1-4327-8bf1-69713fc80a2f.jpg?v=1791504817",
+    "product_url": "https://us.princesspolly.com/products/october-sky-pirate-hat-brown"
+  },
+  {
+    "id": "prince_10236876783700",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Peta & Jain Piper Bag Navy Polka",
+    "price": 46.0,
+    "colors": [
+      "navy polka"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_1591a3a8-44e0-4140-8a0f-22e898efdd77.jpg?v=1790740395",
+    "product_url": "https://us.princesspolly.com/products/peta-jain-piper-bag-navy-polka"
+  },
+  {
+    "id": "prince_10236876816468",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Peta & Jain Piper Bag White Pebble",
+    "price": 46.0,
+    "colors": [
+      "white pebble"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_67897568-b1c4-4d1f-b276-66f044fc6670.jpg?v=1790740245",
+    "product_url": "https://us.princesspolly.com/products/peta-jain-piper-bag-white-pebble"
+  },
+  {
+    "id": "prince_10178869985364",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Dawn To Dusk Shoulder Bag Plum Noir",
+    "price": 39.0,
+    "colors": [
+      "plum noir"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/1_60529dc4-8ab1-4204-920a-610829d4cb0a.jpg?v=1790740113",
+    "product_url": "https://us.princesspolly.com/products/dawn-to-dusk-shoulder-bag-plum-noir"
+  },
+  {
+    "id": "prince_10236876619860",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Brittin Stud Detail Shoulder Bag Black",
+    "price": 45.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_054d7506-5cf2-4aab-9a5d-2657e9ba4adc.jpg?v=1790739876",
+    "product_url": "https://us.princesspolly.com/products/brittin-stud-detail-shoulder-bag-chocolate"
+  },
+  {
+    "id": "prince_10166596993108",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Do Not Disturb Bag Chocolate",
+    "price": 50.0,
+    "colors": [
+      "chocolate"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_c04fb82c-c6a8-47ac-8042-448abcb5759f.jpg?v=1790739682",
+    "product_url": "https://us.princesspolly.com/products/do-not-disturb-bag-chocolate"
+  },
+  {
+    "id": "prince_10236876849236",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Peta & Jain Infinity Hobo Bag Turquoise Crinkle PU",
+    "price": 79.95,
+    "colors": [
+      "torquoise crinkle pu"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/Peta_JainInfinityHoboBagTurquoiseCrinklePU.jpg?v=1791327302",
+    "product_url": "https://us.princesspolly.com/products/peta-jain-infinity-hobo-bag-turquoise-crinkle-pu"
+  },
+  {
+    "id": "prince_10236876750932",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Peta & Jain Jami Faux Suede Hobo Bag Chocolate",
+    "price": 79.95,
+    "colors": [
+      "chocolate"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/0_c1775381-b171-4910-8b74-b694b27f1c7c.jpg?v=1790210168",
+    "product_url": "https://us.princesspolly.com/products/peta-jain-jami-faux-suede-hobo-bag-chocolate"
+  },
+  {
+    "id": "prince_10152001044564",
+    "brand": "Princess Polly",
+    "tier": "budget",
+    "category": "bag",
+    "title": "Olsenn Faux Suede Oversized Shoulder Bag Slate",
+    "price": 45.0,
+    "colors": [
+      "slate"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0061/8627/0804/files/OlsennFauxSuedeOversizedShoulderBagSlate.jpg?v=1790654547",
+    "product_url": "https://us.princesspolly.com/products/olsenn-faux-suede-oversized-shoulder-bag-slate"
+  },
+  {
+    "id": "agolde_8195855581277",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "bottom",
+    "title": "Romney Jean (Weightless) in Vanta",
+    "price": 258.0,
+    "colors": [
+      "vanta"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A309-1818_ROMNEY_JEAN_VANTA_0945.jpg?v=1789071600",
+    "product_url": "https://agolde.com/products/romney-mid-rise-vintage-straight-leg-vanta"
+  },
+  {
+    "id": "agolde_8195855253597",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Hart Bomber in Pine Needle",
+    "price": 650.0,
+    "colors": [
+      "pine needle"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5167-2041_HART_BOMBER_PINE_NEEDLE_1430.jpg?v=1789070149",
+    "product_url": "https://agolde.com/products/hart-bomber-pine-needle"
+  },
+  {
+    "id": "agolde_8239030009949",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "bottom",
+    "title": "Big Cuff Jean in Panna Cotta",
+    "price": 288.0,
+    "colors": [
+      "panna cotta"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A346-1183_BIG_CUFF_JEAN_PANNA_COTTA_0059.jpg?v=1789598915",
+    "product_url": "https://agolde.com/products/big-cuff-jean-panna-cotta"
+  },
+  {
+    "id": "agolde_8239030239325",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "bottom",
+    "title": "Spiral Jean in Marshmallow",
+    "price": 288.0,
+    "colors": [
+      "marshmallow"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A349-1185_SPIRAL_JEAN_MARSHMALLOW_0370.jpg?v=1790708068",
+    "product_url": "https://agolde.com/products/spiral-jean-marshmallow"
+  },
+  {
+    "id": "agolde_8234020405341",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "bottom",
+    "title": "Verica Jean (Recycled Leather) in Detox",
+    "price": 308.0,
+    "colors": [
+      "detox"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A363-1285_VERICA_JEAN_LEATHER_DETOX_0585.jpg?v=1789167304",
+    "product_url": "https://agolde.com/products/verica-jean-detox"
+  },
+  {
+    "id": "agolde_8239030304861",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "bottom",
+    "title": "Vintage Loose in Marshmallow",
+    "price": 258.0,
+    "colors": [
+      "marshmallow"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A328B-1185_VINTAGE_LOOSE_MARSHMALLOW_0264.jpg?v=1790708222",
+    "product_url": "https://agolde.com/products/vintage-loose-marshmallow"
+  },
+  {
+    "id": "agolde_8195855319133",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "dress",
+    "title": "Mazzy Dress in Black",
+    "price": 498.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A20034-2048_MAZZY_DRESS_BLACK_1296.jpg?v=1789070484",
+    "product_url": "https://agolde.com/products/mazzy-maxi-dress-black"
+  },
+  {
+    "id": "agolde_8239030206557",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "bottom",
+    "title": "Low Curve Jean in Bone",
+    "price": 258.0,
+    "colors": [
+      "bone"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A197-1185_LOW_CURVE_JEAN_BONE_1662.jpg?v=1789598463",
+    "product_url": "https://agolde.com/products/low-curve-jean-bone"
+  },
+  {
+    "id": "agolde_8195854762077",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "bottom",
+    "title": "90's Pinch Stirrup (Weightless) in Vanta",
+    "price": 298.0,
+    "colors": [
+      "vanta"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A374-1818_90S_PINCH_STIRRUP_VANTA_0135.jpg?v=1788998808",
+    "product_url": "https://agolde.com/products/90s-pinch-stirrup-vanta"
+  },
+  {
+    "id": "agolde_8158591582301",
+    "brand": "AGOLDE",
+    "tier": "mid",
+    "category": "top",
+    "title": "Wade Tee in Flint",
+    "price": 98.0,
+    "colors": [
+      "flint"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A1054-1611_WADE_TEE_FLINT_0785.jpg?v=1790189565",
+    "product_url": "https://agolde.com/products/wade-tee-flint"
+  },
+  {
+    "id": "agolde_8142567997533",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "bottom",
+    "title": "Warrick Trouser in Forge",
+    "price": 278.0,
+    "colors": [
+      "forge"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A726-1626_WARRICK_TROUSER_FORGE_0650.jpg?v=1784048790",
+    "product_url": "https://agolde.com/products/warrick-rounded-taper-trouser-forge"
+  },
+  {
+    "id": "agolde_8142567768157",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Randall Jacket in Vintage Black",
+    "price": 1298.0,
+    "colors": [
+      "vintage black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A4082_RANDALL_JACKET_VINTAGE_BLACK_0720.jpg?v=1782331464",
+    "product_url": "https://agolde.com/products/randall-jacket-vintage-black"
+  },
+  {
+    "id": "agolde_8195805675613",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "bottom",
+    "title": "Slater Trouser in Envision",
+    "price": 258.0,
+    "colors": [
+      "envision"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A666B-1206_SLATER_TROUSER_ENVISION_0249.jpg?v=1790196437",
+    "product_url": "https://agolde.com/products/slater-trouser-envision"
+  },
+  {
+    "id": "agolde_8142567866461",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "bottom",
+    "title": "Slater Trouser in Eggplant",
+    "price": 278.0,
+    "colors": [
+      "eggplant"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A669C-1632_SLATER_TROUSER_EGGPLANT_0997.jpg?v=1782258045",
+    "product_url": "https://agolde.com/products/slater-trouser-eggplant"
+  },
+  {
+    "id": "agolde_8142567702621",
+    "brand": "AGOLDE",
+    "tier": "mid",
+    "category": "top",
+    "title": "Portman Tee in Lime Stone",
+    "price": 128.0,
+    "colors": [
+      "lime stone"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A1049-1926_PORTMAN_TEE_LIME_STONE_0441.jpg?v=1790188654",
+    "product_url": "https://agolde.com/products/portman-tee-lime-stone"
+  },
+  {
+    "id": "agolde_8232049246301",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "bottom",
+    "title": "Magnus Trouser Jean in Gallery",
+    "price": 238.0,
+    "colors": [
+      "gallery"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A703-837_MAGNUS_JEAN_GALLERY_0808.jpg?v=1790793768",
+    "product_url": "https://agolde.com/products/magnus-trouser-jean-gallery"
+  },
+  {
+    "id": "agolde_8142566490205",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "top",
+    "title": "Boyle Shirt in Section",
+    "price": 348.0,
+    "colors": [
+      "section"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A4077-1812_BOYLE_SHIRT_SECTION_2490.jpg?v=1782317894",
+    "product_url": "https://agolde.com/products/boyle-shirt-section"
+  },
+  {
+    "id": "agolde_8195805642845",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Idris Quarter Zip in Obscura",
+    "price": 228.0,
+    "colors": [
+      "obscura"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A1027-1748_IDRIS_QUARTER_ZIP_OBSCURA_0337.jpg?v=1790196264",
+    "product_url": "https://agolde.com/products/idris-quarter-zip-obscura"
+  },
+  {
+    "id": "agolde_8195805544541",
     "brand": "AGOLDE",
     "tier": "higher",
     "category": "outerwear",
@@ -126,37 +2297,271 @@
     "colors": [
       "association"
     ],
-    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A4073-1978_BLAZE_JACKET_ASSOCIATION_0133.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A4073-1978_BLAZE_JACKET_ASSOCIATION_0133.jpg?v=1790195579",
     "product_url": "https://agolde.com/products/blaze-jacket-association"
   },
   {
-    "id": "agolde_veronica",
+    "id": "agolde_8195805511773",
     "brand": "AGOLDE",
     "tier": "higher",
-    "category": "outerwear",
-    "title": "Veronica Jacket in Covell",
-    "price": 298.0,
-    "colors": [
-      "covell"
-    ],
-    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5159-1483_VERONICA_JACKET_COVELL_2102_5c89e1b3-f231-4184-b5fa-b219dbe41f75.jpg",
-    "product_url": "https://agolde.com/products/veronica-jacket-covell"
-  },
-  {
-    "id": "agolde_croydon",
-    "brand": "AGOLDE",
-    "tier": "higher",
-    "category": "outerwear",
-    "title": "Croydon Jacket in Rinse",
-    "price": 348.0,
+    "category": "bottom",
+    "title": "Blake Cargo in Rinse",
+    "price": 358.0,
     "colors": [
       "rinse"
     ],
-    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A4078-1966_CROYDON_JACKET_RINSE_0356_11be9266-7df7-48cb-8b24-56ca77841479.jpg",
-    "product_url": "https://agolde.com/products/croydon-y2k-round-shoulder-jacket-rinse"
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A735-1996_BLAKE_CARGO_RINSE_0235.jpg?v=1790195487",
+    "product_url": "https://agolde.com/products/blake-cargo-rinse"
   },
   {
-    "id": "agolde_iona",
+    "id": "agolde_8195805479005",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "bottom",
+    "title": "Afton Jean in Association",
+    "price": 238.0,
+    "colors": [
+      "association"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A711B-1978_AFTON_JEAN_ASSOCIATION_0165.jpg?v=1790194274",
+    "product_url": "https://agolde.com/products/afton-jean-association"
+  },
+  {
+    "id": "agolde_8195805347933",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "bottom",
+    "title": "Afton Jean in Cobalt",
+    "price": 238.0,
+    "colors": [
+      "cobalt"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A711-1934_AFTON_JEAN_COBALT_0293.jpg?v=1790194483",
+    "product_url": "https://agolde.com/products/afton-jean-cobalt"
+  },
+  {
+    "id": "agolde_8239055568989",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "top",
+    "title": "Souline T-Shirt in Black",
+    "price": 228.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A7465-2000_SOULINE_TOP_BLACK_1515.jpg?v=1789587439",
+    "product_url": "https://agolde.com/products/souline-top-black"
+  },
+  {
+    "id": "agolde_8201498198109",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "dress",
+    "title": "Robyn Dress in Bronze",
+    "price": 398.0,
+    "colors": [
+      "bronze"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A20035-2053_ROBYN_DRESS_BRONZE_0218.jpg?v=1789071482",
+    "product_url": "https://agolde.com/products/robyn-draped-long-sleeve-mini-dress-bronze"
+  },
+  {
+    "id": "agolde_8195855548509",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "accessory",
+    "title": "Renata Scarf Neck in Black",
+    "price": 228.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A7472-2000_RENATA_SCARF_NECK_BLACK_0233.jpg?v=1790707973",
+    "product_url": "https://agolde.com/products/renata-scarf-neck-black"
+  },
+  {
+    "id": "agolde_8195855351901",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "top",
+    "title": "Milena Twist Tee in Bronze",
+    "price": 358.0,
+    "colors": [
+      "bronze"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A7510-2053_MILENA_TWIST_TEE_BRONZE_0823.jpg?v=1789070773",
+    "product_url": "https://agolde.com/products/milena-twist-tee-bronze"
+  },
+  {
+    "id": "agolde_8195855188061",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "top",
+    "title": "Corrin Scoop Back Bodysuit (Velvet) in Truffle",
+    "price": 188.0,
+    "colors": [
+      "truffle"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A7511-1562_CORRIN_SCOOP_BACK_BODYSUIT_VELVET_TRUFFLE_0021.jpg?v=1790706649",
+    "product_url": "https://agolde.com/products/corrin-scoop-back-bodysuit-truffle"
+  },
+  {
+    "id": "agolde_8195855155293",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Catrine Bomber (Velvet) in Bronze",
+    "price": 650.0,
+    "colors": [
+      "bronze"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5166-2042_CATRINE_BOMBER_BRONZE_1380.jpg?v=1789004053",
+    "product_url": "https://agolde.com/products/catrine-bomber-bronze"
+  },
+  {
+    "id": "agolde_8195855122525",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "top",
+    "title": "Carlin Top (Velvet) in Truffle",
+    "price": 228.0,
+    "colors": [
+      "truffle"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A7508-1562_CARLIN_TOP_TRUFFLE_0281.jpg?v=1789003358",
+    "product_url": "https://agolde.com/products/carlin-top-truffle"
+  },
+  {
+    "id": "agolde_8195855056989",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "top",
+    "title": "Bryony Top (Satin) in Olive Brown",
+    "price": 348.0,
+    "colors": [
+      "olive brown"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A7506-2055_BRYONY_TOP_OLIVE_BROWN_0109.jpg?v=1790706447",
+    "product_url": "https://agolde.com/products/bryony-mock-neck-long-sleeve-top-olive-brown"
+  },
+  {
+    "id": "agolde_8195854958685",
+    "brand": "AGOLDE",
+    "tier": "mid",
+    "category": "top",
+    "title": "Aura Long Sleeve Bodysuit (Velvet) in Royal",
+    "price": 178.0,
+    "colors": [
+      "royal"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A7509-1562_AURA_LONG_SLEEVE_BODYSUIT_ROYAL_0622.jpg?v=1789002666",
+    "product_url": "https://agolde.com/products/aura-long-sleeve-bodysuit-royal"
+  },
+  {
+    "id": "agolde_8195854991453",
+    "brand": "AGOLDE",
+    "tier": "mid",
+    "category": "top",
+    "title": "Aura Long Sleeve Bodysuit (Velvet) in Truffle",
+    "price": 178.0,
+    "colors": [
+      "truffle"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A7509-1562_AURA_LONG_SLEEVE_BODYSUIT_TRUFFLE_0353.jpg?v=1789002661",
+    "product_url": "https://agolde.com/products/aura-long-sleeve-bodysuit-truffle"
+  },
+  {
+    "id": "agolde_8142365753437",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "top",
+    "title": "Aris Shirt (Wool) in Chocolate Heather",
+    "price": 298.0,
+    "colors": [
+      "chocolate heather"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A7380-2024_ARIS_SHIRT_CHOCOLATE_HEATHER_2339.jpg?v=1784754902",
+    "product_url": "https://agolde.com/products/aris-shirt-chocolate-heather"
+  },
+  {
+    "id": "agolde_8142365786205",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "top",
+    "title": "Aris Shirt (Wool) in Charcoal Heather",
+    "price": 298.0,
+    "colors": [
+      "charcoal heather"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A7380-2024_ARIS_SHIRT_CHARCOAL_HEATHER_47.jpg?v=1784754940",
+    "product_url": "https://agolde.com/products/aris-shirt-charcoal-heather"
+  },
+  {
+    "id": "agolde_7560261042269",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Iona Quilted Jacket in Ink",
+    "price": 495.0,
+    "colors": [
+      "ink"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/IONA_JACKET_INK_1.jpg?v=1790293134",
+    "product_url": "https://agolde.com/products/iona-quilted-jacket-ink"
+  },
+  {
+    "id": "agolde_7560278245469",
+    "brand": "AGOLDE",
+    "tier": "mid",
+    "category": "top",
+    "title": "Pascale Turtleneck in Black",
+    "price": 168.0,
+    "colors": [
+      "black"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A7238-1618_PASCALE_TURTLENECK_BLACK_0686.jpg?v=1787956834",
+    "product_url": "https://agolde.com/products/pascale-rib-turtleneck-black"
+  },
+  {
+    "id": "agolde_7971461202013",
+    "brand": "AGOLDE",
+    "tier": "mid",
+    "category": "top",
+    "title": "Pascale Turtleneck in Charcoal Heather",
+    "price": 158.0,
+    "colors": [
+      "charcoal heather"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A7238-1902_PASCALE_TURTLENECK_CHARCOAL_HEATHER_41.jpg?v=1790201601",
+    "product_url": "https://agolde.com/products/pascale-turtleneck-charcoal-heather"
+  },
+  {
+    "id": "agolde_7936476610653",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Isla Quilted Jacket in Ink",
+    "price": 550.0,
+    "colors": [
+      "ink"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5090_ISLA_JACKET_INK_0394.jpg?v=1789510855",
+    "product_url": "https://agolde.com/products/isla-quilted-jacket-ink"
+  },
+  {
+    "id": "agolde_7936476643421",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Isla Quilted Jacket in Bourbon",
+    "price": 550.0,
+    "colors": [
+      "bourbon"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5090_ISLA_JACKET_BOURBON_0173.jpg?v=1788304389",
+    "product_url": "https://agolde.com/products/isla-quilted-jacket-bourbon"
+  },
+  {
+    "id": "agolde_7106407104605",
     "brand": "AGOLDE",
     "tier": "higher",
     "category": "outerwear",
@@ -165,20 +2570,98 @@
     "colors": [
       "black"
     ],
-    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5031_IONA_JACKET_BLACK_1049.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5031_IONA_JACKET_BLACK_1049.jpg?v=1788303018",
     "product_url": "https://agolde.com/products/shoreditch-ski-club-x-agolde-iona-quilted-jacket-black"
   },
   {
-    "id": "agolde_nova",
+    "id": "agolde_8142365818973",
     "brand": "AGOLDE",
     "tier": "higher",
     "category": "outerwear",
-    "title": "Nova Bomber Jacket in Black",
-    "price": 550.0,
+    "title": "Danver Moto Jacket in Vintage Black",
+    "price": 1298.0,
     "colors": [
-      "black"
+      "vintage black"
     ],
-    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5152_NOVA_BOMBER_JACKET_BLACK_64_5c535c6a-d8ef-46c0-bb5a-7f0fc43f3408.jpg",
-    "product_url": "https://agolde.com/products/nova-bomber-jacket-black"
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5153_DANVER_MOTO_JACKET_VINTAGE_BLACK_1745.jpg?v=1784754516",
+    "product_url": "https://agolde.com/products/danver-moto-jacket-vintage-black"
+  },
+  {
+    "id": "agolde_8142365163613",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Pierson Jacket in Chai",
+    "price": 1198.0,
+    "colors": [
+      "chai"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5154_PIERSON_JACKET_CHAI_0938.jpg?v=1788476375",
+    "product_url": "https://agolde.com/products/pierson-jacket-chai"
+  },
+  {
+    "id": "agolde_8142365884509",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Frankie Reversible Bomber in Morello",
+    "price": 795.0,
+    "colors": [
+      "morello"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5148_FRANKIE_REVERSIBLE_BOMBER_MORELLO_0386.jpg?v=1783442531",
+    "product_url": "https://agolde.com/products/frankie-reversible-bomber-morello"
+  },
+  {
+    "id": "agolde_8142365851741",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Frankie Reversible Bomber in Fern",
+    "price": 795.0,
+    "colors": [
+      "fern"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5148_FRANKIE_REVERSIBLE_BOMBER_FERN_1976.jpg?v=1784746132",
+    "product_url": "https://agolde.com/products/frankie-reversible-bomber-fern"
+  },
+  {
+    "id": "agolde_8142364934237",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "outerwear",
+    "title": "Ona Bomber Jacket in Falun",
+    "price": 595.0,
+    "colors": [
+      "falun"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A5151_ONA_BOMBER_JACKET_FALUN_0953.jpg?v=1783984659",
+    "product_url": "https://agolde.com/products/ona-bomber-jacket-falun"
+  },
+  {
+    "id": "agolde_8142363951197",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "dress",
+    "title": "Kembra Dress (Recycled Leather) in Detox",
+    "price": 358.0,
+    "colors": [
+      "detox"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A20032-1285_KEMBRA_DRESS_LEATHER_DETOX_1288_dfd0091e-3311-4b28-9078-e871d71b4d16.jpg?v=1788561407",
+    "product_url": "https://agolde.com/products/kembra-batwing-dress-detox"
+  },
+  {
+    "id": "agolde_8136589082717",
+    "brand": "AGOLDE",
+    "tier": "higher",
+    "category": "dress",
+    "title": "Kembra Dress (Weightless) in Magnify",
+    "price": 288.0,
+    "colors": [
+      "magnify"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/4076/8349/files/A20031-1254_KEMBRA_DRESS_MAGNIFY_4.jpg?v=1787857690",
+    "product_url": "https://agolde.com/products/kembra-batwing-dress-magnify"
   }
 ]

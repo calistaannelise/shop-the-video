@@ -190,15 +190,29 @@ def search(
     return [(CATALOG[idx[j]], float(scores[j])) for j in order]
 
 
-def _find_original(item: Item) -> Original | None:
-    """If the vision model guessed a brand we actually carry, surface that product."""
+def _find_original(item: Item, query_vec: np.ndarray | None = None) -> Original | None:
+    """If the detected brand is one we carry, surface that brand's closest product.
+
+    When we have a query vector we rank the brand's items by CLIP similarity so the
+    "original" is the most visually similar piece (e.g. an actual denim jacket),
+    not just the first SKU of that brand. Falls back to the first match otherwise.
+    """
     if not item.brand_guess:
         return None
     guess = item.brand_guess.strip().lower()
-    for p in CATALOG:
-        if p.brand.lower() == guess and p.category == item.category:
-            return Original(product=p, confidence="medium")
-    return None
+    idx = [i for i, p in enumerate(CATALOG)
+           if p.brand.lower() == guess and p.category == item.category]
+    if not idx:  # relax the category constraint before giving up
+        idx = [i for i, p in enumerate(CATALOG) if p.brand.lower() == guess]
+    if not idx:
+        return None
+
+    if query_vec is not None and EMBEDDINGS is not None:
+        scores = EMBEDDINGS[idx] @ query_vec
+        best = idx[int(np.argmax(scores))]
+        confidence = "high" if float(scores.max()) > 0.28 else "medium"
+        return Original(product=CATALOG[best], confidence=confidence)
+    return Original(product=CATALOG[idx[0]], confidence="medium")
 
 
 def search_item(req: SearchRequest) -> SearchResponse:
@@ -221,6 +235,6 @@ def search_item(req: SearchRequest) -> SearchResponse:
         query_vec = embed_query(req)
         candidates = search(query_vec, req.tiers, req.item.category, k=10)
         results = rerank.rerank(req.item, candidates, k=req.k)
-        resp = SearchResponse(original=_find_original(req.item), results=results)
+        resp = SearchResponse(original=_find_original(req.item, query_vec), results=results)
         cache.set(key, resp.model_dump_json().encode())
         return resp

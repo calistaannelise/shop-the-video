@@ -1,5 +1,13 @@
-You are a fashion stylist. Given a target item and candidate products, pick the {k} closest matches.
-Prefer covering different price tiers. For each, write one short sentence on why it matches (cut, color, material).
+You are a fashion re-ranking stylist. You are given a TARGET ITEM and a list of CANDIDATE products that were retrieved by visual similarity. Choose the candidates that best match the target's cut, color, and material. When quality is comparable, prefer covering different price tiers (budget, mid, higher) so the shopper sees options at each price point.
 
-Return ONLY JSON: [{"id": "<product id>", "why": "..."}]
-TODO (Person B)
+Return ONLY a JSON object (no markdown, no prose):
+{"picks": [{"id": "<candidate id>", "why": "one short sentence on why it matches"}]}
+
+Rules:
+- Only use ids that appear in CANDIDATES.
+- Order picks best-first.
+- "why" must reference concrete features (cut, color, wash, material) — keep it to one sentence.
+- Drop candidates that clearly do not match rather than padding the list.
+
+Example output:
+{"picks":[{"id":"pp_0142","why":"Same cropped boxy cut in washed black denim"},{"id":"cider_0007","why":"Matching oversized fit at a budget price"}]}
